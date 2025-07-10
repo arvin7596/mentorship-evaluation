@@ -1,0 +1,2192 @@
+[
+  {
+    "question_id": "question_01",
+    "question_text": "1.What steps should I take to grow in my current role as a software engineer?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Explore what you like more. Don't jump too soon on conclusions yet. While learning technical skills is crucial, learning communication skills is even more important. These days anybody can write code but conveying your thoughts is not the easier part. Even the most critical thinking person sometimes can lack basic communication skills and since as an engineer you will be working with other people, it is very important that whatever you are trying to convey is understandable to everyone working with you.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "- Use code reviews as an active feedback channel on your code. Don't simply do what others tell you, but always ask for the how and the backgrounds of it. - Participate in code reviews of other peoples code. Even if you do not feel to be in the place to criticize others, post questions if you do not understand what is going on or ask why this specific approach was chosen. - Take over ownership over certain parts of a project. It is important to build up expertise in something, be the person that will be asked by others if it is about a certain topic. - Specialize on a set of technologies that you like and continue building up knowledge on that - If career opportunities arise that fit the expert status that you have built up for a certain technology or topic, take them",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Foster your ability to learn and discover your approach to do this: are you a hands-on kind of learner, or do you reach for the docs first? There is not right answer, but really cultivating the culture of being the person that can learn anything will surely help.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "Learn the details of architectural best practices that apply to your technology stack.  Spend time learning about alternate technologies (programming languages, database system) to gain perspective on architectural choices.  Read code written by experienced programmers.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I think that it has a lot to do with the \"hands on\" approach. I think that there is a strong correlation between the number of hours one puts into the software developer role and the amount of growth/progress they will experience.   In addition - it would be important to find a niche of the current software product that you folks are working on, and become proficient in it (think of a particular part of the project).  Ideally, it would be nice to find a person, who could mentor you. This can be either your EM or some other person on the team, who puts effort into reviewing your PRs and invest some extra time into explaining concepts that are unclear and so on.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Start by understanding the bigger picture, don't limit yourself to just the task or ticket in front of you. Take time to learn the business context, the goals of the product, and how customers will use the feature you're building. When you truly understand the customerâ€™s needs, you're more likely to build something valuable and intuitive. Think from the customerâ€™s perspective, what problem are they trying to solve, and how can you make it easy for them?  Avoid over-engineering. Focus on delivering simple, effective solutions. Work iteratively: build, deliver, gather feedback, and improve. Often, customers donâ€™t know exactly what they want upfront. If you spend weeks developing a complex feature without validation, you risk building the wrong thing. Small, quick iterations allow you to learn faster, stay aligned with user needs, and ship more meaningful work over time.  Collaboration is primary thing. Pair programming is a great way to learn, share ideas, and grow with your teammates. Donâ€™t box yourself into one area and be open to picking up tasks across different parts of the stack: frontend, backend, infrastructure, etc. This helps you build confidence and adaptability.  Finally, make it a habit to share what you learn. Participate in knowledge-sharing sessions or create your own. The more you share, the more you grow and so does your team.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 30
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "As a junior software engineer, it's great that you're thinking about growing in your current role. Here are some steps you can take to enhance your skills, take on new challenges, and make progress in your career:  1. **Set clear goals**: Identify specific areas you'd like to improve in, such as learning a new programming language, improving your coding skills, or taking on more responsibility. Make sure these goals are measurable, achievable, and relevant to your role and career aspirations. 2. **Develop a growth mindset**: Embrace the idea that you can always learn and improve. Be open to constructive feedback, and don't be afraid to ask questions or seek help when needed. 3. **Stay up-to-date with industry trends**: Follow industry leaders, attend webinars, and participate in online forums to stay informed about the latest technologies, tools, and methodologies. This will help you stay competitive and make informed decisions. 4. **Take on new challenges**: Volunteer for projects or tasks outside your comfort zone. This will help you develop new skills, build confidence, and demonstrate your capabilities to your team and management. 5. **Improve your coding skills**: Focus on improving your coding skills by practicing, reviewing, and refining your code. Consider participating in coding challenges, hackathons, or contributing to open-source projects. 6. **Develop soft skills**: As a software engineer, it's not just about coding. Focus on developing soft skills like communication, teamwork, and time management to work effectively with your colleagues and stakeholders. 7. **Seek feedback and mentorship**: Find a mentor who can provide guidance, support, and valuable insights. Also, seek feedback from your colleagues and manager to identify areas for improvement and growth. 8. **Document your progress**: Keep a record of your accomplishments, skills, and knowledge. This will help you track your progress, identify areas for improvement, and showcase your achievements to potential employers or clients. 9. **Network and build relationships**: Attend industry events, conferences, and meetups to connect with other professionals in the field. Build relationships with colleagues, mentors, and industry leaders to expand your network and learn from their experiences. 10. **Continuously learn and upskill**: The software engineering field is constantly evolving. Stay curious and committed to continuous learning by taking courses, attending workshops, or pursuing certifications that align with your career goals.  Remember, growing in your current role requires effort, dedication, and a willingness to learn and adapt. By following these steps, you'll be well on your way to making progress and advancing in your career as a software engineer.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Growing in your current role requires a strategic approach across technical, professional, and interpersonal dimensions. Here's my guidance: Immediate Technical Growth: Start by deepening your expertise in your team's tech stack. Since you have ML and OOP foundations, identify which technologies your company uses most and become the go-to person for at least one of them. Don't just learn syntax—understand architectural patterns, best practices, and why certain decisions were made. Expand Your Impact: Move beyond assigned tasks by identifying small improvements you can make to existing codebases, documentation, or processes. Volunteer for slightly challenging features that stretch your abilities but aren't overwhelming. This shows initiative and helps you learn faster. Build Relationships: Leverage your code review experience by asking thoughtful questions during reviews—not just about your code, but when reviewing others'. Build relationships with senior developers, product managers, and other stakeholders. Understanding the business context behind your code makes you more valuable. Seek Feedback Actively: Don't wait for formal reviews. Regularly ask your manager and senior colleagues: \"What's one thing I could improve?\" and \"What should I focus on to grow into the next level?\" Be specific about your career goals so they can provide targeted guidance. Document and Share: Keep track of your contributions and learnings. Share interesting discoveries with your team through internal presentations or documentation. This builds your reputation as someone who adds value beyond coding.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "To grow in your current role as a junior software engineer, concentrate on deepening your technical expertise by mastering your team's current programming languages, frameworks, and tools. Continuously reinforce your understanding of computer science fundamentals like algorithms and data structures. Actively seek and integrate feedback on your code and problem-solving approaches, striving to write clean, maintainable, and well-documented code. Understand the broader business context of your projects and how your work contributes to company goals. Proactively identify areas for improvement, take initiative on challenging tasks, and collaborate closely with senior engineers to learn from their experience. Effective communication, both written and verbal, including asking insightful questions and clearly explaining technical concepts, is also crucial for expanding your impact within the team and company.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 30
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "To grow in your current role as a software engineer, start by deepening your understanding of core programming concepts and software design patterns. Focus on mastering one or two programming languages commonly used in the industry you're interested in. Build side projects to apply your knowledge and showcase your initiative. Actively participate in code reviews and seek feedback from more experienced engineers to improve your coding style and problem-solving approach. Stay curious and continuously learn—whether through online courses, reading technical blogs, or following open-source communities. Additionally, improve your communication skills and learn how to explain technical decisions clearly, as collaboration is key in most engineering teams. Set short- and mid-term learning goals, and regularly assess your progress with a mentor or peer. Finally, don't shy away from taking on slightly more challenging tasks at work; stretch assignments can accelerate your growth and help you gain confidence.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      }
+    ]
+  },
+  {
+    "question_id": "question_02",
+    "question_text": "2.How can I identify the right software engineering specialization (e.g., backend, frontend, DevOps, AI/ML) for my skills and interests?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "By building side projects other than your work. Just find a real life problem around you and based on your skills build a software for that. Slowly, you will start understanding what you like to build more.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Once you specialize, you will be doing a lot of it, so make sure it is something that does not feel tedious to do for you and that you enjoy doing. Usually when you enjoy doing something, you will get better at it with way less effort then on topics that you do not really enjoy or feel just okayish.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 1,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 19
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Follow your insterests - there is some overlap areas but at the end of the day are you more of a data person or a UI/UX person?",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "As a backend engineer, you'll need to be interested in architecture and you'll need the ability to form abstract models from code in your head, as your subject matter does not implicitly have a visual representation.  This applies to analysis of existing systems, creating of new systems and failure analysis and troubleshooting. As a frontend engineer, your focus is on the visual side and user interaction dynamics.  You need to be able to understand user workflows in order to create interfaces that are easy to use.  You'll also benefit from your interpersonal skills when working with users on creating good solutions.  It also helps to have taste and a determination to create visually appearing works. In operations, you'll need to be strong in system's thinking as you need to conceptualize complex interworking architectures.  Automation is the primary focus of your work, and you will need to value time saved later by time spent on slightly annoying tasks now.  Ops engineering requires a great deal of pragmatism and a good understanding of operating system fundamentals, I/O systems and hardware.  You'll also benefit from a good understanding of statistics for system analysis.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 1,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 1,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 19
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "This is something that comes over time.   In addition to initial personal interest, there can be a number of parameters affecting this (the current state of each specialization in a company, short- and long-term plans, people who work in corresponding specialization areas, etc.)   I think that the most natural approach would be - to take time and develop the intuition for those aspects that are of utmost interest to you.  I believe that the first contours of this intuition will start to appear after 3 - 6 months with the company.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "As you explore different areas (as described above in the previous question), frontend, backend, DevOps, AI/ML, you'll naturally discover what you enjoy the most and where your strengths are. That makes you the best person to choose the path that fits you best.  Keep in mind, your choice isnâ€™t permanent. You can always switch tracks or even grow into a fullstack engineer by gradually working across different areas. What matters most is staying curious, open to learning, and building a strong foundation.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 2,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Identifying the right software engineering specialization can be a challenging but important step in your career. Here are some steps to help you identify the right specialization for your skills and interests:  1. **Reflect on your strengths and interests**: Make a list of your strengths, skills, and interests in software engineering. What do you enjoy working on? What are you good at? What technologies or areas of development excite you? 2. **Explore different specializations**: Research and learn about various specializations, such as:         * Backend: APIs, server-side development, databases, and data processing.         * Frontend: User interface, user experience, client-side scripting, and web development.         * DevOps: Automation, deployment, monitoring, and infrastructure management.         * AI/ML: Machine learning, natural language processing, computer vision, and predictive modeling.         * Mobile: Android, iOS, cross-platform development, and mobile-specific technologies.         * Data Science: Data analysis, visualization, machine learning, and data-driven decision-making. 3. **Evaluate job descriptions and requirements**: Look at job descriptions and requirements for different specializations to understand the skills and technologies needed. This will give you an idea of what's involved in each specialization and help you identify which one aligns with your strengths and interests. 4. **Network and ask questions**: Reach out to professionals in different specializations and ask them about their experiences, challenges, and advice. Attend industry events, meetups, and conferences to learn more about different specializations and network with experts. 5. **Take online courses and tutorials**: Experiment with different specializations by taking online courses and tutorials. This will give you a hands-on experience and help you identify which one you enjoy more. 6. **Consider your long-term goals**: Think about your long-term goals and what you want to achieve in your career. Some specializations may be more aligned with your goals than others. 7. **Identify your values and priorities**: Consider what matters most to you in a specialization. Do you value flexibility, creativity, or stability? Do you prioritize innovation, scalability, or reliability?  Here are some questions to ask yourself when evaluating different specializations:  * What technologies do I enjoy working with? * What problems do I want to solve? * What kind of impact do I want to make? * What kind of work environment do I prefer? * What are my long-term career goals?  By following these steps, you'll be able to identify the right software engineering specialization for your skills and interests. Remember to stay flexible and open-minded, as your specialization may evolve over time as you gain more experience and knowledge.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 5,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 32
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "This is a crucial decision that will shape your career trajectory. Let me help you approach this systematically. Start with Self-Assessment: Reflect on your internship experience—which tasks energized you most? Was it solving complex algorithmic problems, creating user interfaces, optimizing system performance, or working with data? Your natural inclinations often point toward the right specialization. Given your ML background, you already have a head start in AI/ML, but don't let that limit your exploration. Consider what type of problems excite you: user-facing challenges (frontend), system architecture and scalability (backend), infrastructure and automation (DevOps), or data-driven insights (AI/ML). Practical Exploration Strategy: Take on small projects in each area. Spend 2-3 weeks building something in each specialization: a simple web app frontend, a REST API backend, a basic CI/CD pipeline, or an ML model deployment. This hands-on experience will reveal what feels natural and engaging. Consider the German Market: Germany has strong demand across all these areas, but particularly in backend development for enterprise software, DevOps for the growing cloud adoption, and AI/ML in automotive and industrial sectors. Research companies like SAP, Siemens, BMW, or Berlin's startup scene to see what excites you. Talk to Practitioners: Reach out to engineers in each field through LinkedIn or tech meetups. Ask about their daily work, career progression, and what they wish they'd known starting out. German tech communities are generally welcoming to newcomers. Hybrid Approach: Remember, you don't have to choose immediately or exclusively. Many successful engineers combine specializations—like ML engineers who understand backend systems, or full-stack developers with DevOps skills.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Identifying the right software engineering specialization requires a multi-faceted approach. Begin by introspecting on your existing knowledge: Which aspects of machine learning, OOP, algorithms, data structures, HTML, and CSS did you genuinely enjoy and feel a natural aptitude for? Next, gain hands-on experience across different domains. Build small projects in frontend, backend, DevOps, or AI/ML to truly understand the day-to-day work and challenges of each. Utilize online courses, tutorials, and open-source contributions for practical exposure. Simultaneously, research the current and future job market in Germany and internationally to see which specializations are in high demand. Finally, seek out professionals in these fields for informational interviews; their insights can provide invaluable context beyond job descriptions and help you align your skills and interests with viable career paths.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 1,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 17
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Start by exploring each specialization through small, hands-on projects to see what genuinely excites you. For example, build a simple web app to test frontend development, or set up a basic API for backend. If you're curious about AI/ML, try participating in a beginner Kaggle competition or experiment with basic models using Python libraries. Reflect on what tasks you enjoy the most—do you prefer visual design and user interactions, or working behind the scenes with data and infrastructure? Look at job descriptions in each area and note the skills they require, then compare them with your current strengths and interests. Talk to professionals in different roles through LinkedIn or local meetups in Germany to understand what their day-to-day work involves. Your internship experience might also offer clues—think about which tasks you liked or disliked. Finally, remember that your first choice doesn’t have to be final. Early in your career, it’s normal to try different paths before settling into a specialization that aligns with both your strengths and career goals.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      }
+    ]
+  },
+  {
+    "question_id": "question_03",
+    "question_text": "3.Which programming languages, frameworks, or tools should I focus on to stay relevant in software engineering over the next 5 years?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "These days, Javascript is your best bet but if you want to dive more into backend side of things, I would suggest learning Go.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Everything is web. IMHO at least on of the three big frontend frameworks/libraries ()React, Anular, Vue) should be part of your portfolio to some extent, so that even if you have a backend focus you can do some basic frontend/fullstack tasks as well. Apart from that for more backend stuff I would say Rust or Go are quite popular and in demand, I would stay away from Java or PHP since it is widely regarded as outdated or bloated and will lose relevance quickly in the midterm. For big data and AI python is always in demand, but if you want to make it your thing make sure that you are able to code properly with it and not just script around some basic shit, everyone can do that. On the web side you should definitely have some basic typescript knowledge and not just javascript.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "I would steer clear of recommending frameworks. These things come and go, there is always the next big thing in the horizon. Instead, one should seek to learn the foundations so that learning a new framework/language/tool is nothing but learning a new set of abstractions. Enjoy frontend? Try to do something in plain JS with nothing else other than plain HTML and CSS. Understanding the pains will help you understand (and appreciate) the abstractions someone else created for us.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "While it is important to keep track of current trends, the fundamentals of software development change slowly.  As a well rounded software engineer, you have working knowledge of different programming paradigms, and it helps to learn languages that have an emphasis for a particular programming paradigm in order to appreciate the power of each of them better in multi-paradigm languages.  To be concrete, learning an object oriented language like Java or Smalltalk, a function-oriented language like Haskell or clojure and a logic language like Prolog will all contribute to being able to work with more modern languages in a better way.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "Despite the fact that it is super appealing to jump on the latest \"keywords\"/\"technologies\", especially for the fresh developers; one needs to find a certain balance here.  Many of the new/shiny things will not grow and develop a community around themselves. Nonetheless, it might still be cool to learn about the approaches that they use (usually, that would be a combination of taking the best learnings from the exsiting/established tech).  Having said that - there is a lot of data/charts on the popularity of certain technologies in the dev world, along with the dynamics of their popularity.  I don't think that there is a \"golden bullet\" type of an approach here, since one can pick some established tech/library that matches their interest and grow their skills in it. On the other hand - one could pick some very nich language/technology/etc. and become a proficient in it (think of some Bank/Finance-related mainframe languages from 70's/80's that are still in use by the banks, but has very few skilled/knowledgeable people in it).  Overall: I would suggest picking a combo of something that has a pretty good standing and penetration in the community (depending on your specialization: front/back/devops/etc.) as well as something that has been gaining footing over the past 2-3 years steadily.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Focus on your fundamentals, get strong in languages like TypeScript and Python, pick one solid backend language like Java or Go, and build a working knowledge of cloud and infrastructure. This combination will make you a highly adaptable and future-proof software engineer.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "As a software engineer, it's essential to stay up-to-date with the latest trends, technologies, and tools to remain relevant in the industry. Here are some programming languages, frameworks, and tools that are likely to remain relevant over the next 5 years:  **Programming Languages:**  1. **Python**: Python is a versatile language with a wide range of applications, including machine learning, data science, and web development. 2. **JavaScript**: JavaScript is the dominant language for web development, and its popularity is expected to continue. 3. **Java**: Java remains a popular language for enterprise development, Android app development, and machine learning. 4. **Kotlin**: Kotlin is a modern language gaining traction, especially for Android app development and backend development. 5. **Go**: Go, also known as Golang, is a modern language gaining popularity, especially for cloud-native applications and distributed systems.  **Frameworks and Libraries:**  1. **React**: React is a popular framework for building user interfaces and remains a top choice for web development. 2. **Node.js**: Node.js is a popular framework for building scalable and high-performance server-side applications. 3. **Django**: Django is a popular Python framework for building robust and scalable web applications. 4. **Spring**: Spring is a popular Java framework for building enterprise-level applications. 5. **TensorFlow**: TensorFlow is a popular open-source machine learning framework gaining widespread adoption.  **Tools and Technologies:**  1. **Cloud Computing**: Cloud computing is becoming increasingly important, and knowledge of cloud platforms like AWS, Azure, and Google Cloud is essential. 2. **Containerization**: Containerization using Docker is gaining popularity, especially for deploying and managing applications. 3. **DevOps**: DevOps tools like Jenkins, Git, and Travis CI are essential for automating the software development lifecycle. 4. **Artificial Intelligence and Machine Learning**: AI and ML are becoming increasingly important, and knowledge of tools like TensorFlow, PyTorch, and Scikit-Learn is valuable. 5. **Agile Methodologies**: Agile methodologies like Scrum and Kanban are becoming more widespread, and knowledge of these frameworks is essential for working in modern software development teams.  **Emerging Trends:**  1. **Serverless Computing**: Serverless computing is gaining popularity, especially for building scalable and cost-effective applications. 2. **Microservices Architecture**: Microservices architecture is becoming increasingly popular, especially for building scalable and flexible systems. 3. **Blockchain**: Blockchain is an emerging technology with potential applications in various industries, including finance, healthcare, and supply chain management. 4. **Internet of Things (IoT)**: IoT is becoming increasingly important, especially for building connected devices and systems. 5. **Quantum Computing**: Quantum computing is an emerging field, and knowledge of quantum computing concepts and tools is valuable for working on complex problems.  Remember that the software engineering landscape is constantly evolving, and it's essential to stay adaptable and open to new technologies and trends. Focus on building a strong foundation in programming languages, frameworks, and tools, and be prepared to learn new technologies as the industry evolves.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "This is excellent strategic thinking! Let me guide you through the technologies that will likely remain relevant and valuable over the next 5 years, especially considering the German market. Core Languages to Prioritize: Python remains essential—it dominates AI/ML, data science, and backend development. Given your ML background, deepening your Python expertise is crucial. JavaScript/TypeScript is indispensable for web development and increasingly used in other domains. Go and Rust are gaining significant traction for systems programming and cloud-native applications, particularly in German enterprises moving to microservices. Frameworks Worth Investing In: For web development, React continues to dominate frontend, while Next.js is becoming the full-stack framework of choice. On the backend, FastAPI (Python) and Express/Node.js offer excellent career prospects. For AI/ML, focus on PyTorch over TensorFlow—it's becoming the industry standard. Essential Tools and Platforms: Docker and Kubernetes are non-negotiable for modern software engineering. AWS or Azure cloud platforms are critical (Azure has strong presence in Germany due to data sovereignty concerns). Git proficiency beyond basics, including branching strategies and CI/CD integration, is essential. Emerging Areas to Watch: WebAssembly is gaining momentum for performance-critical applications. Edge computing and serverless architectures are reshaping how we build systems. In Germany's strong automotive sector, knowledge of embedded systems and IoT technologies could be particularly valuable. My Recommendation: Start with deepening Python and learning TypeScript thoroughly. Pick one cloud platform and become proficient. Then explore based on your chosen specialization.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "To maintain relevance in software engineering over the next five years, prioritize foundational and in-demand technologies. For programming languages, focus on Python for its pervasive use in AI/ML and data science, JavaScript (especially TypeScript) for full-stack web development, and Java for robust enterprise systems, with increasing value in Go and Rust for performance-critical applications and cloud infrastructure. Key frameworks will continue to include React, Angular, or Vue.js for frontend, and Spring Boot (Java), Django (Python), or FastAPI (Python) for backend. Crucially, gain deep proficiency in at least one major cloud computing platform (AWS, Azure, GCP). Master DevOps practices and tools like Docker, Kubernetes, and Terraform. Familiarity with core AI/ML libraries (TensorFlow, PyTorch) will also be increasingly essential, alongside strong SQL skills, robust security practices, and complete mastery of Git for version control.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 5,
+          "personalization": 3,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "To stay relevant over the next five years, focus on widely-used, versatile languages like Python and JavaScript. Python remains essential for AI/ML, automation, and backend work, while JavaScript (with frameworks like React or Next.js) is dominant in frontend and full-stack development. For backend, gaining experience with Node.js, Java (Spring Boot), or even Go can be valuable, depending on your interests. Learn SQL and become comfortable with at least one major database system. Familiarity with version control systems like Git is a must. Additionally, understanding cloud platforms like AWS, Azure, or GCP, along with tools like Docker and Kubernetes, is increasingly important in modern DevOps and deployment workflows. For AI/ML, focus on libraries such as TensorFlow, PyTorch, and scikit-learn. Don’t just chase trends—choose tools based on the kind of problems you enjoy solving. Stay curious, and continuously adapt by following industry news, open-source communities, and developer conferences to keep your tech stack current and your skills sharp.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      }
+    ]
+  },
+  {
+    "question_id": "question_04",
+    "question_text": "4.What common mistakes should I avoid early in my software engineering career?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Giving up very easy and doubting yourself.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Not understand the basics. You do not need to know everything and you do not need to know everything down to machinelevel, but in the tech stack you are using you should start at the beginning to really understand what is going on.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 2,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 20
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Avoid quick fixes. Don't stop pursuing the problem as soon as you've fixed it - instead give yourself the time to really understand both the problem and the solution, and stop only when you've understood it fully.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 5,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "While it is good to focus, spending too much time in one particular tech stack will make it difficult for you to get a job when the industry attention shifts from one fad to the next.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 19
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "Not communicating your progress and seeking feedback from PM/EM in the process of working on a larger/longer task. I have an impression that younger engineers try to do/resolve tasks on their own, and this resolution might not be exactly what the goal of the task was; or there could have been a better and more efficient way to do so.   This is especially applicable - when the engineer gets stuck on some task, and instead of looking for an advice early enough - they will try to resolve an issue themselves, potentially investing N-times more time/effort.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Stay open minded, explore broadly, ask questions, avoid unnecessary complexity, and understand the bigger picture. These habits will accelerate your growth and help you become not just a good coder but a great engineer.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "As a software engineer, it's essential to avoid common mistakes that can impact the quality of your work, your reputation, and your career. Here are some common mistakes to avoid early in your software engineering career:  1. **Poor Code Quality**: Avoid writing code that is difficult to read, maintain, or debug. Keep your code organized, follow coding standards, and use comments to explain complex logic. 2. **Lack of Testing**: Don't assume that your code works correctly without testing. Write unit tests, integration tests, and user acceptance tests to ensure your code is reliable and meets requirements. 3. **Inadequate Debugging**: Don't overlook debugging as a crucial part of the software development process. Use debugging tools, log messages, and error handling to identify and fix issues quickly. 4. **Unnecessary Complexity**: Avoid adding unnecessary complexity to your code. Focus on simplicity, readability, and maintainability. Break down complex problems into smaller, manageable parts. 5. **Not Seeking Feedback**: Don't be afraid to ask for feedback from colleagues, mentors, or managers. Feedback can help you improve your code quality, identify areas for improvement, and grow as a software engineer. 6. **Not Documenting Code**: Don't neglect to document your code, including comments, code reviews, and change logs. This helps others understand your code, reduces knowledge gaps, and improves collaboration. 7. **Not Staying Up-to-Date**: Don't neglect to stay up-to-date with industry trends, technologies, and best practices. Participate in online forums, attend conferences, and take online courses to stay current. 8. **Not Managing Time Effectively**: Don't underestimate the importance of time management. Prioritize tasks, set deadlines, and avoid procrastination to deliver high-quality work on time. 9. **Not Communicating Effectively**: Don't neglect to communicate effectively with your team, stakeholders, and customers. Clearly explain technical concepts, provide regular updates, and be open to feedback and questions. 10. **Not Continuously Learning**: Don't stop learning once you've gained some experience. Continuously seek new knowledge, skills, and certifications to stay competitive and adapt to changing technologies.  By avoiding these common mistakes, you'll set yourself up for success and build a strong foundation for your software engineering career.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Excellent question! Learning from others' mistakes can save you years of career setbacks. Here are the critical pitfalls I see early-career engineers encounter: Technical Mistakes: Don't fall into the \"tutorial trap\"—endlessly consuming educational content without building real projects. Your internship experience gives you an advantage here, but continue building and shipping actual software. Also, resist the urge to learn every new technology that appears. Pick a core stack and master it deeply before expanding. Avoid writing code just to \"make it work.\" Early engineers often skip proper testing, documentation, and code organization because they feel pressure to deliver quickly. This creates technical debt that will hurt your reputation and learning. Professional Missteps: Never pretend to understand something when you don't. In Germany's engineering culture, admitting knowledge gaps and asking questions is respected, not seen as weakness. Senior engineers would rather spend time explaining concepts than debugging mysterious problems later. Don't underestimate the business side. Understanding why you're building something is as important as how you're building it. Engage with product managers and stakeholders to learn the context behind your work. Career Development Errors: Avoid staying in your comfort zone too long. If you're consistently completing tasks without challenge, you're not growing. Actively seek stretch assignments, even if they feel intimidating. Don't neglect networking and mentorship. The German tech scene values relationships and recommendations. Attend meetups, contribute to open source, and build genuine professional connections. Communication Pitfalls: In Germany's direct communication culture, being too passive in meetings or not voicing concerns can hurt your career progression. Practice articulating your ideas clearly and don't be afraid to contribute to technical discussions.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 5,
+          "actionability": 5,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 32
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Early in your software engineering career, it's essential to avoid several common pitfalls to ensure steady growth and a positive experience. One frequent mistake is not asking enough questions or being too afraid to admit when you're stuck. Junior engineers are expected to learn, and asking clarifying questions or seeking help from senior colleagues saves significant time and prevents bigger issues down the line. Related to this is ignoring feedback; always be receptive to constructive criticism, whether on code reviews or performance, and actively work to incorporate it. Another pitfall is over-engineering solutions or trying to implement overly complex designs for simple problems, often in an attempt to showcase advanced knowledge. Focus on writing clean, readable, and functional code that solves the immediate problem efficiently, rather than adding unnecessary complexity. Similarly, neglecting testing and documentation is a common error. Thoroughly testing your own code and providing clear documentation, even for small features, vastly improves maintainability and collaboration. Furthermore, isolating yourself and not engaging with your team is detrimental. Software development is a collaborative effort, so actively participate in discussions, learn from pair programming, and build relationships with colleagues. Lastly, avoid trying to learn too many things simultaneously or jumping between technologies without gaining a solid foundation in any one area. Instead, focus on mastering your current stack and gradually expand your expertise.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 5,
+          "actionability": 3,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 31
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "One common mistake is avoiding asking questions out of fear of seeming inexperienced. Embrace curiosity—early career is the best time to learn from others. Another mistake is focusing too much on writing code and not enough on understanding the problem, requirements, or system design. Also, don’t ignore soft skills; communication, collaboration, and time management are just as important as technical ability. Avoid jumping between too many tools or languages without mastering any—depth matters more than breadth early on. Many juniors also overlook the importance of testing and documentation, but building good habits in these areas early will set you apart. Finally, don’t underestimate the value of feedback. Actively seek it and view it as a tool for growth, not criticism. Stay open to learning from failures, and remember that progress is a gradual process.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      }
+    ]
+  },
+  {
+    "question_id": "question_05",
+    "question_text": "5.Can you suggest learning resources or career paths tailored to my current level in software development?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Attenting tech meetups in your city or around yourself, podcasts like Syntax.fm, engaging in tech twitter.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Depending on the tech stack the official documentations of whatever you are using are a great way to start. E.g. with React the official docs are super well written and structured and if you go through that from start to end once, you know evrything you need. Other technologies are less well documented, but I would always start from there. There are also lots of very well structured online courses out there, e.g. on udemy, codecademy or other platforms.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Rather hard to say, I'm afraid I don't have the answers here. Are you a video type of person, podcasts, or straight up books? Tutorials vs docs? Many difference scenarios are in play.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "Personally, I still think that good books are an excellent way to learn.  It is unfortunate that new books on technology topics are getting rarer, but as I mentioned, the fundamentals don't change as quickly as the trends, so even older books can provide a great deal of useful knowledge. If you choose to freelance, it is important to not specialize too much as that demonstrates your ability to adapt to new environments.  Try to work on projects that span 6-12 months.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 5,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I can only think of LLMs nowadays. May be some video courses, in case we are talking about any particular technology.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "learning resources - For front end courses - https://wesbos.com/courses , for Infra topics - https://learn.cantrill.io/ and for the BE https://quii.gitbook.io/learn-go-with-tests there are many udemy courses which gives you the basic idea.   At the start of your career, it's more important to explore different areas, frontend, backend, infra, DevOps, etc. than to lock into a specific path. Youâ€™ll discover your strengths and interests through hands-on experience.  After a few years, most engineers naturally gravitate toward one of two main paths:  Technical Track â€“ Focused on architecture, system design, performance, and becoming a subject matter expert (Senior > Staff > Principal Engineer).  Management Track â€“ Focused on people leadership, team coordination, mentoring, and delivery execution (Tech Lead > Engineering Manager > Director).  You donâ€™t need to choose right away and many skills (like communication and ownership) help on both tracks. What matters is building strong foundations, staying curious, and continuously learning.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Based on your background as a junior software engineer, I'd recommend the following learning resources and career paths to help you grow in your career:  **Learning Resources:**  1. **Online Courses:**         * Codecademy (Python, JavaScript, HTML/CSS, etc.)         * Coursera (Stanford University's CS courses, etc.)         * edX (MIT's CS courses, etc.)         * Udemy (various CS courses, etc.) 2. **Books:**         * \"Clean Code\" by Robert C. Martin (best practices for writing clean code)         * \"Code Complete\" by Steve McConnell (best practices for writing efficient code)         * \"The Pragmatic Programmer\" by Andrew Hunt and David Thomas (best practices for software development) 3. **Blogs and Podcasts:**         * Hacker Noon (software development articles and news)         * Dev.to (software development articles and stories)         * The Turing Machine (software development podcast)         * The DevOps Podcast (DevOps and cloud computing podcast) 4. **Communities:**         * GitHub (open-source projects and community)         * Stack Overflow (Q&A platform for programmers)         * Reddit (r/learnprogramming, r/webdev, etc.)  **Career Paths:**  1. **Junior Software Engineer:** Continue to work on your skills and experience, and aim to move into more senior roles within your current company or take on more responsibilities. 2. **Software Development Engineer in Test (SDET):** Consider transitioning into a role that focuses on software testing and quality assurance. 3. **DevOps Engineer:** Develop your skills in DevOps and cloud computing, and consider transitioning into a role that focuses on infrastructure and deployment. 4. **Technical Lead:** As you gain more experience, consider taking on a technical lead role, where you'll be responsible for guiding and mentoring other developers. 5. **Technical Writer:** Consider transitioning into a role that focuses on technical writing and documentation, where you'll be responsible for creating high-quality documentation and guides.  Remember to always stay curious, keep learning, and be open to new opportunities and challenges. Good luck in your career!",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 5,
+          "depth_expertise": 5,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 32
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Technical Learning Resources: For deepening your existing skills, Pluralsight and Udemy offer excellent German-language courses, which can be helpful for complex topics. LeetCode and HackerRank are essential for algorithm practice—many German companies, especially larger ones like SAP, use similar coding challenges. Since you have ML background, explore Fast.ai for practical deep learning and Kaggle Learn for hands-on data science projects. For web development, The Odin Project provides a comprehensive full-stack curriculum that's free and project-based. German-Specific Resources: Join Xing (Germany's professional network) and look for software engineering groups. Stack Overflow has active German developer communities. Consider IHK courses for formal certifications that German employers recognize and value. Career Path Options: Path 1: Technical Specialist - Deepen expertise in your chosen specialization (ML, backend, etc.) and aim for senior engineer roles within 3-5 years. German companies value deep technical expertise. Path 2: Technical Leadership - Combine technical skills with team leadership, progressing to tech lead or engineering manager roles. This path is well-compensated in Germany's structured corporate environment. Path 3: Consulting/Freelancing - Germany has a robust freelance developer market. After 2-3 years of employment, many engineers transition to lucrative consulting roles. Immediate Next Steps: Start contributing to open source projects—GitHub profiles matter significantly in German hiring. Consider joining local meetups in cities like Berlin, Munich, or Hamburg for networking.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Learning Resources Given your foundational knowledge, concentrate on resources that bridge theoretical understanding with practical application. Online platforms like Coursera, Udemy, and edX offer excellent specialized courses and professional certificates from universities and tech companies. Look for tracks like \"full-stack developer,\" \"backend development,\" or \"DevOps engineer.\" Always start with official documentation and tutorials for any new framework or language, as these are the most accurate and provide hands-on guidance. Platforms such as LeetCode and HackerRank are invaluable for refining your algorithm and data structure skills, which are crucial for technical interviews and efficient problem-solving. Consider contributing to beginner-friendly open-source projects on GitHub; this provides real-world experience, helps build your portfolio, and offers networking opportunities. Additionally, stay informed by following leading tech blogs and news sites to keep abreast of industry trends, best practices, and emerging technologies.  Career Paths As a junior engineer in Germany exploring local and international opportunities, you have several promising career paths. The most common is the Individual Contributor (IC) track, where you advance from Junior to Mid-level, Senior, Staff, and Principal Engineer. This involves continuously deepening your technical skills, leading projects, and mentoring others while remaining hands-on with code. Within this track, you can specialize as a Backend Engineer, Frontend Engineer, Mobile Developer, DevOps Engineer, or Machine Learning Engineer, depending on your interests. After gaining significant experience as a senior IC, you might transition into a Technical Lead role, guiding a small team's technical direction, or an Engineering Manager role, focusing more on people management and project oversight. Given your machine learning interest, you could specifically target roles like Machine Learning Engineer or AI Developer if you further develop your statistical and modeling skills. Networking within the German tech scene through meetups and LinkedIn is highly beneficial for discovering specific local opportunities and tailoring your path.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "At your current level, platforms like freeCodeCamp, Codecademy, and The Odin Project offer solid, structured paths for building web development skills. For deeper CS fundamentals, MIT’s OpenCourseWare and Harvard’s CS50 are excellent. To advance your machine learning skills, try Coursera’s “Machine Learning” by Andrew Ng or the fast.ai course. For hands-on practice, use LeetCode or HackerRank to improve problem-solving and algorithms. GitHub is great for exploring real-world codebases, and contributing to open-source projects can boost both skills and visibility. In terms of career paths, consider junior frontend or backend developer roles to begin with, then specialize based on what excites you. Tech meetups and conferences in Germany (like Berlin Tech Meetup or PyCon DE) can also help you network and discover opportunities. Look into graduate trainee programs or junior roles at international companies that offer mentorship and growth tracks. A mix of structured learning and real-world coding experience will help you progress steadily.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      }
+    ]
+  },
+  {
+    "question_id": "question_06",
+    "question_text": "6.How do I track and measure my progress when learning new software engineering skills (e.g., system design, debugging, testing)?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "By documenting your thoughts in a form of blogs. That way, you will be able to present how you think and talk. The more you write and read, the more your learn.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Those things are very hard to measure and personally I don't think they need to be measured. I would say with the felt ratio of asking for help / being asked for help.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Compare your code from today with the code from 6 months ago. If it's markedly better, you're doing something right. Another thing I find helpful is attempting to explain the concept you're trying to learn to someone (or something) in the simplest, less techy way possible. This really helps me personally finding the gaps in my knowledge: if I can't come up with a simple analogy to explain a complex topic, I probably could improve my understanding.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "I cannot answer this question because I never do this.",
+        "evaluation": {
+          "relevance": 1,
+          "clarity": 2,
+          "actionability": 1,
+          "empathy_tone": 1,
+          "depth_expertise": 1,
+          "personalization": 1,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 10
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I haven't done any sort of notes tracking or what not. I think that the tracking and the measurement approaches depend on what the end result for their usage is.  It seems to me that the best tracking is done by the amount of growth that the person gets. That growth will be reflected in the code that they write.  There is only so much informational value that a written list of items about one's progress can do in order to impress your potential employer or whatnot. On the other hand - being able to solve a given task, using certain approaches and techniques - that could be goodness.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Track progress by building small projects with specific learning goals, documenting what you learn, reviewing it regularly, and getting feedback.  Over time, skills like debugging and testing will naturally improve through repetition and exposure to real-world scenarios. Youâ€™ll notice growth especially when you are pair programming, where you learn from others' approaches and thought processes.  You step into the customer's shoes, thinking not just about how your code works but how it's experienced and used in real-life situations.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Tracking and measuring progress is crucial when learning new software engineering skills. Here are some ways to track and measure your progress:  **Tracking Progress:**  1. **Code Reviews:** Participate in code reviews with your peers or mentors to get feedback on your code and identify areas for improvement. 2. **Code Challenges:** Complete code challenges or hackathons to test your skills and learn from others. 3. **Personal Projects:** Work on personal projects or contribute to open-source projects to gain practical experience and track your progress. 4. **Journaling:** Keep a journal or log to track your progress, note what you've learned, and reflect on your experiences.  **Measuring Progress:**  1. **Metrics:** Use metrics such as code quality, code coverage, or testing efficiency to measure your progress. 2. **Checklists:** Create checklists to ensure you've covered all aspects of a skill or technology. 3. **Self-Assessment:** Regularly assess your own progress, identifying strengths and weaknesses, and adjust your learning plan accordingly. 4. **Peer Feedback:** Seek feedback from peers or mentors to identify areas for improvement and track your progress.  **Tools and Resources:**  1. **Version Control:** Use version control systems like Git to track your progress and collaborate with others. 2. **Code Analysis Tools:** Use code analysis tools like CodeCoverage, CodeHeat, or SonarQube to track your progress and identify areas for improvement. 3. **Learning Platforms:** Use online learning platforms like Pluralsight, Udemy, or Coursera to track your progress and earn badges or certifications. 4. **Project Management Tools:** Use project management tools like Trello, Jira, or Asana to track your progress and manage your projects.  **Tips and Best Practices:**  1. **Set Realistic Goals:** Set realistic goals and milestones to track your progress and stay motivated. 2. **Focus on Fundamentals:** Focus on mastering the fundamentals of a skill or technology before moving on to more advanced topics. 3. **Practice Consistently:** Practice consistently to track your progress and reinforce your learning. 4. **Seek Feedback:** Seek feedback from others to identify areas for improvement and track your progress.  By tracking and measuring your progress, you'll be able to:  1. Stay motivated and engaged in your learning journey 2. Identify areas for improvement and adjust your learning plan accordingly 3. Demonstrate your progress to others and showcase your skills 4. Celebrate your achievements and reflect on your experiences  Remember, tracking and measuring progress is an ongoing process that requires effort, dedication, and a willingness to learn and adapt.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 5,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Excellent question! Tracking progress in software engineering can be tricky since many skills are qualitative, but having clear metrics keeps you motivated and helps demonstrate growth to managers. Create Skill-Specific Metrics: For system design, track the complexity of systems you can design independently. Start with single-service applications, progress to microservices, then distributed systems. Document your designs and revisit them monthly to see how your thinking evolves. For debugging, measure time-to-resolution and the types of bugs you can solve independently. Keep a debugging journal noting the problem, your approach, solution, and what you learned. You'll notice patterns in your improvement over time. For testing, track test coverage percentages, but more importantly, count how many production bugs originate from code you wrote. The goal is steady reduction over time. Portfolio-Based Tracking: Build a personal learning portfolio documenting projects that demonstrate each skill. Include before/after code samples, architecture diagrams, and reflection notes. This serves dual purposes—tracking progress and showcasing abilities to employers. Feedback-Driven Measurement: Regularly seek specific feedback from senior colleagues: \"How has my debugging approach improved this month?\" or \"What's the next level of system design complexity I should tackle?\" Their observations often reveal progress you can't see yourself. German Professional Development: Consider pursuing certifications that German employers recognize, like AWS or Azure certifications. These provide clear milestones and are valued in the German job market's structured approach to professional development. Time-Boxing Approach: Set quarterly learning goals with specific deliverables. For example: \"Q3 goal: Design and implement a microservice with proper testing and monitoring.\" This creates accountability and measurable outcomes.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Tracking progress in skills like system design, debugging, and testing involves both objective metrics and self-assessment. For system design, gauge your ability to articulate trade-offs and propose scalable solutions in discussions or mock interviews; keep a design journal to document your evolving thought process. For debugging, measure efficiency by how quickly you identify and resolve issues, noting a shift towards sophisticated tools over simple print statements, and a reduction in self-introduced bugs. For testing, assess the quality and coverage of your tests, how many bugs they catch pre-production, and your ability to test for complex edge cases. Consistently working on challenging projects, seeking constructive feedback, and logging lessons learned are key to accelerating and recognizing your development across all these areas. ",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "To track your progress, set clear, achievable learning goals—such as building a REST API, passing specific coding challenges, or completing a course on system design. Break each skill into smaller components and focus on one at a time. Keep a learning journal or use tools like Notion or Trello to document what you study, challenges you face, and solutions you discover. Measure progress through consistent practice: for system design, try mock design interviews or explain designs to peers; for debugging, note recurring patterns you now solve faster; for testing, track how confidently you write and interpret test cases. Revisit old code to see improvements in readability and structure. Take online quizzes, build small projects, or complete exercises on platforms like LeetCode, Frontend Mentor, or Exercism. Finally, seek feedback from mentors or peers to get external insights on your growth and areas for improvement. Regular reflection helps turn effort into visible, measurable progress.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      }
+    ]
+  },
+  {
+    "question_id": "question_07",
+    "question_text": "7.What strategies help software engineers stay motivated and consistent in reaching long-term goals, like contributing to open source or becoming a tech lead?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Depends on a person. For me it is more about showcasing my work. It can in a form of my project getting highlighted, my blog is being read by others or my Youtube videos are being liked by others.  For long term goals, the idea is to ship a stable and scalable software, roles automatically align to you with time.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Do what you like to do. You shall only contribute to OSS when you care about it, and you only shall become a tech lead when it is your calling. Don't reach the goal of a nice title. You will eventually get that nice title when you are your best at what you love doing. ",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "I don't really have an answer to this, unfortunately. I am lucky enough to love what I do enough so that it brings me joy to do it - there is not motivation required. However, in life there are things we do not because we like them but because they must be done.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "If you're interested in computer technology itself, your work will not get boring.  If you are not, I have no advice.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 2,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 15
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "Getting good rest/sleep. May be I got too old - but good rest is the key to be able to perform - on personal or work projects. And if there is still energy - then some OS projects.  The software engineering domain is full of \"Imposter Syndrome\". One should focus as much as possible on themselves and their performance. One needs to stay sane :) ",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Join forums, Discord channels, GitHub discussions, and meetups related to your interests. Being part of a community provides support, inspiration, and accountability.  Donâ€™t just use open source, get involved! When you encounter bugs or missing features, try to fix them and submit pull requests. This hands-on involvement deepens your skills and builds your reputation.  Write blog posts like medium articles, share your experiences with new tools, frameworks, or versions. Teaching others reinforces your knowledge and keeps you connected.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Staying motivated and consistent is crucial for achieving long-term goals, especially in software engineering. Here are some strategies that can help:  **Short-Term Goals:** Break down long-term goals into smaller, achievable milestones. Celebrate your successes and reflect on your progress regularly.  **Accountability:** Share your goals with a friend, mentor, or colleague and ask them to hold you accountable. This can provide an added motivation to stay on track.  **Learning and Growth:** Focus on learning and growth, rather than just achieving a specific goal. This can help you stay motivated and engaged in the process.  **Mental Tricks:** Use mental tricks like visualizing success, setting reminders, and creating a \"stop doing\" list to help you stay focused and motivated.  **Collaboration:** Work with others who share similar goals and values. This can provide a sense of community and motivation to stay on track.  **Reward System:** Create a reward system for yourself, where you treat yourself to something enjoyable after reaching a milestone or completing a challenging task.  **Self-Care:** Prioritize self-care, including exercise, meditation, and healthy habits. A healthy body and mind can help you stay motivated and focused.  **Celebrate Small Wins:** Celebrate small wins and acknowledge your progress along the way. This can help you stay motivated and encouraged to continue working towards your goals.  **Persistence:** Persistence is key when working towards long-term goals. Stay committed and don't give up, even in the face of challenges and setbacks.  **Mentorship:** Find a mentor who can provide guidance, support, and motivation. A mentor can help you stay on track and provide valuable insights and advice.  **Reflection and Review:** Regularly reflect on your progress and review your goals. This can help you stay motivated and focused by identifying areas that need improvement.  **Rewarding Experience:** Focus on the rewarding experience of contributing to open source or becoming a tech lead, rather than just the end goal. The process of learning and growing can be just as fulfilling as achieving the goal itself.  **Staying Positive:** Stay positive and optimistic, even in the face of challenges and setbacks. A positive attitude can help you stay motivated and focused on your goals.  By implementing these strategies, you can stay motivated and consistent in reaching your long-term goals as a software engineer.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "This is one of the most challenging aspects of career development! Long-term goals require sustained motivation over months or years, which goes against our natural preference for immediate feedback. Let me share strategies that work. Break Down Into Micro-Commitments: Instead of \"contribute to open source,\" set weekly mini-goals like \"spend 2 hours reading project documentation\" or \"fix one documentation typo.\" For tech leadership, start with \"mentor one junior developer\" or \"lead one team meeting.\" Small, consistent actions compound dramatically over time. Create Accountability Systems: Find an accountability partner—perhaps another developer with similar goals. Weekly check-ins where you report progress work surprisingly well. In Germany's professional culture, consider joining or forming a career development group through local meetups or company networks. Use the \"Learning in Public\" Strategy: Document your journey publicly through blog posts, LinkedIn updates, or talks at local meetups. When others follow your progress, you feel naturally accountable. Plus, this builds your professional reputation simultaneously. Connect Goals to Current Work: Make long-term goals relevant to immediate tasks. If you want to become a tech lead, volunteer to mentor interns or lead small initiatives at work. If open source is your goal, find projects that use technologies from your day job—your contributions become more valuable and learning accelerates. Celebrate Micro-Wins: Track and celebrate small progress markers. Your first merged pull request, first code review given, or first technical presentation are all stepping stones worth acknowledging. Build Identity-Based Habits: Instead of \"I want to contribute to open source,\" think \"I am someone who contributes to open source.\" This subtle shift makes the behavior part of your identity rather than an external goal.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 5,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "To stay motivated and consistent in long-term software engineering goals like contributing to open source or becoming a tech lead, break down large objectives into smaller, manageable milestones. For example, an open-source goal can become \"find project,\" \"read guidelines,\" \"fix small bug,\" and \"submit pull request.\" Celebrating these small wins provides continuous encouragement and maintains momentum. Cultivate a strong sense of purpose for your goals, understanding the \"why\" behind them, whether it's for learning, community impact, or career growth. For open source, choose projects you genuinely find interesting. For leadership, focus on how you can enhance your team's effectiveness. Engaging with a community, through local meetups or online forums, can also provide valuable external motivation and accountability. Embrace continuous learning and experimentation without fearing failure. The tech landscape evolves rapidly, so view new challenges as growth opportunities rather than stressors. Don't let setbacks discourage you; instead, see them as chances to learn and improve. This resilient mindset is vital for sustained effort. Finally, prioritize self-care and maintain a healthy work-life balance to prevent burnout. Regular breaks, engaging in hobbies, and prioritizing well-being ensure you have the sustained energy and mental clarity needed to consistently pursue and achieve your ambitious career aspirations.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Staying motivated begins with having a clear purpose—understand why a long-term goal matters to you, whether it's making an impact, growing your reputation, or mastering a field. Break the goal into smaller, achievable milestones and celebrate each win to build momentum. For example, before becoming a tech lead, aim to lead a small project or mentor a peer. To contribute to open source, start by fixing documentation or beginner issues before tackling larger features. Consistency comes from routine—set dedicated weekly time for your goal and treat it like a commitment. Surround yourself with like-minded peers through online communities, local meetups in Germany, or open-source Slack channels. Reflect on your progress regularly and adjust your goals as you grow. Finally, accept that motivation will fluctuate—what matters is maintaining discipline and reconnecting with your “why” during low-energy periods. Long-term growth is a marathon, not a sprint.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 26
+      }
+    ]
+  },
+  {
+    "question_id": "question_08",
+    "question_text": "8.How should I evaluate and decide between two software engineering job offers (e.g., startup vs. big tech)?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Depends on what you want. Startup will give you an overview of everything but with big tech you will have a niche on a particular topic or two. Both have their own pros. For a junior engineer, I would always suggest working in a startup because of growth prospects.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "This depends on your personal situation. Do you need financial stability, do you have a family, where are the jobs located, would you need to move, do you make new friends easily?  If this does not yet eliminate one of the options, look at what is really important for you in a work culture and which job will probably fit this better.  Another thing to consider is, what will look better on my CV? You will probably not work at this job until retirement, so what job will fit your CV better and shows the direction of your expertise more? But this should only be a factor if other factors are quite equal - if you built your whole professional live around that you will become a very unhappy person and you will lose all joy in life.",
+        "evaluation": {
+          "relevance": 1,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 2,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 15
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Many factors should come into play when making such a decision: 1 - is financial stability an absolute necessity for you? Startups often pay more but are also more volatile. 2 - Are you fine with working more than 40 hours a week? At a startup this is often expected, especially for an early stage company. 3 - Is the tech stack something you could see yourself working with?",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "First, check the background of the companies and evaluate the company culture based on news and posts on social media. There are lots of websites like Glassdoor, Indeed, Blind, … where people share their experiences about working at those companies. So you could have some insights about their environments and culture. Furthermore, you need to consider the challenges of working in startups, and decide if you want to come up with it on or not. Although it could have lots of advantages, there are still some disadvantages, like a lack of job safety.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 5,
+          "empathy_tone": 5,
+          "depth_expertise": 3,
+          "personalization": 5,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 32
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "Each of the types carries its risk and rewards.  For startups: the reward is faster growth, while the established companies may bring more stability.   There will most likely be less meeting and faster turnaround times when it comes to start ups. The job may also feel more rewarding, especially if the start up is young, since all of your contributions will affect end users more directly.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 20
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Startups always have pressure, no process, maybe autonomy, but more learning and growth if you are in the right company. Big tech companies are slightly different; they have bigger processes, and sometimes you may think, \"Why do we need this?\" More money, less pressure, better engineering practices. There will be many more differences; you just need to understand what you prefer. I recommend trying one first and then the other so that you learn from both sides.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Congratulations on receiving two software engineering job offers! Evaluating and deciding between them can be a challenging task. Here are some factors to consider when making your decision:  **Startup vs. Big Tech:**  1. **Culture:** Consider the company culture and values. Are they aligned with your own values and preferences? Startups are often more agile and flexible, while big tech companies may have more rigid processes. 2. **Growth:** Think about the company's growth prospects. Will you have opportunities to take on new challenges and grow professionally? Startups are often faster-paced, while big tech companies may have more established processes. 3. **Compensation:** Evaluate the compensation package, including salary, benefits, and stock options (if applicable). Consider the total value of the offer, not just the salary. 4. **Team and Collaboration:** Consider the team dynamics and collaboration opportunities. Will you be working closely with others or independently? 5. **Autonomy:** Think about the level of autonomy and decision-making authority you'll have in your role. 6. **Mentorship:** Consider the availability of mentors and opportunities for professional development. 7. **Innovation:** Think about the company's focus on innovation and willingness to take risks. 8. **Resources:** Evaluate the resources available to you, including tools, technologies, and infrastructure. 9. **Work-Life Balance:** Consider the work-life balance and flexibility offered by each company.  **Other Factors to Consider:**  1. **Industry:** Think about the industry and its growth prospects. Is it a niche market or a large and established industry? 2. **Technology:** Consider the technology stack and tools used by each company. Are they aligned with your interests and expertise? 3. **Job Responsibilities:** Evaluate the job responsibilities and expectations. Are they aligned with your strengths and interests? 4. **Manager:** Consider the manager and their style. Will they provide guidance and support? 5. **Company Mission:** Think about the company mission and values. Are they aligned with your own values and goals? 6. **Reviews and Testimonials:** Research reviews and testimonials from current or former employees to get a sense of the company culture and work environment. 7. **Growth Opportunities:** Consider the opportunities for growth and advancement within each company. 8. **Company Size:** Think about the company size and its impact on the work environment and culture. 9. **Diversity and Inclusion:** Evaluate the company's commitment to diversity and inclusion, including programs and initiatives.  **Decision-Making Process:**  1. **Create a List:** Create a list of pros and cons for each company. 2. **Prioritize:** Prioritize the factors that are most important to you, and weigh the pros and cons accordingly. 3. **Research:** Research each company thoroughly, including reviews and testimonials from current or former employees. 4. **Networking:** Network with current or former employees to gain insights into the company culture and work environment. 5. **Intuition:** Trust your intuition and make a decision based on your gut feeling.  By considering these factors and weighing your priorities, you can make an informed decision that aligns with your goals, values, and career aspirations.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 5,
+          "actionability": 4,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 5,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 32
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "This is a pivotal decision that will significantly shape your career trajectory. Let me help you evaluate offers systematically, especially considering the unique aspects of the German job market. Financial Evaluation Beyond Base Salary: Look at total compensation over 2-3 years, not just starting salary. German startups often offer equity that could be valuable, while established companies provide predictable raises and bonuses. Consider benefits like pension contributions (Betriebsrente), health insurance supplements, and professional development budgets—these can add significant value in Germany. Learning and Growth Opportunities: Startups typically offer broader exposure—you might work across frontend, backend, and infrastructure. This accelerates learning but can feel overwhelming. Established companies provide deeper specialization, structured mentorship, and clear career progression paths. Given your foundational skills, consider which environment would better develop your target specialization. Risk Assessment: German labor laws provide strong protection, but startups still carry higher risk. Can you afford potential instability? Conversely, larger companies might offer less flexibility or slower decision-making. Consider your personal risk tolerance and current life situation. Culture and Work-Life Balance: German work culture generally respects work-life balance, but this varies by company type. Startups might have more flexible hours but potentially longer ones. Established companies often have stricter boundaries but more predictable schedules. Visit both offices if possible and speak with current employees. Strategic Career Positioning: Think about your 5-year vision. If you want to become a technical specialist, a larger company might offer better resources and mentorship. If entrepreneurship interests you, startup experience provides invaluable insights into business operations. Due Diligence Questions: Ask about engineering practices, code review processes, and technical debt. Inquire about the team's experience levels and mentorship opportunities. For startups, understand their funding situation and growth plans.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "When evaluating software engineering job offers, especially between a startup and big tech, prioritize factors aligned with your career goals. For learning and growth, big tech offers structured training and deep specialization in large-scale systems. Startups provide a \"learn-by-doing\" environment, broader responsibilities, and faster learning across domains. Regarding compensation and stability, big tech usually offers higher base salaries and comprehensive benefits, along with greater job security. Startups may have lower salaries but offer speculative equity. In Germany, junior salaries in big tech can be significantly higher, perhaps €50k-60k+, while startups might start lower. Consider work-life balance and culture. Big tech often has more structured hours and established processes, potentially better work-life balance. Startups are typically fast-paced, demanding more hours but offering greater flexibility and direct impact due to less bureaucracy. Finally, assess the impact of your work. At a startup, your individual contributions can visibly shape the product. In big tech, your work might be a smaller piece but can impact millions of users with access to cutting-edge tools. Reflect on whether you prefer broad ownership and rapid learning or structured growth and working at immense scale. Speaking with engineers at both types of companies offers invaluable real-world insights.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "When deciding between two job offers, start by comparing the roles’ responsibilities and how they align with your career goals and interests. Consider the company culture and work environment—startups often offer more flexibility and broader responsibilities, which can accelerate learning but may come with less stability. Big tech companies usually provide structured training, mentorship, and clearer career paths but might have more rigid processes. Evaluate compensation, benefits, and work-life balance, including remote work options and vacation policies. Think about the team you’ll join—how supportive and skilled they are, and whether you’ll have chances to collaborate and grow. Consider the technology stack and projects—do they excite you and match where you want to develop expertise? Lastly, factor in location and commute, especially since you live in Germany but are exploring international options. Talk to current or former employees if possible to get insider insights. Your decision should balance immediate needs with long-term growth potential and personal fulfillment.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      }
+    ]
+  },
+  {
+    "question_id": "question_09",
+    "question_text": "9.I feel stuck in my development career; how can I regain momentum or pivot into a new tech area?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "By building projects and looking into others code, how they perform.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Switching company will always help mixing things up and bringing new opportunities, but don't do it to often, or you will not have learned what there is to learn. Imho a good time to wicht companies is after 2 to 7 years.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 20
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Learning a new technology could help or, if the problem is really saturation, taking a break from it to rediscover the enthusiasm for tech. Changing companies is always a good idea if you feel stagnated - a good rule of thumb for whether or not to stay at a job is you either: - get payed a loooot of money - are learning a lot, especially early on in your career.  Ideally, we would go for both at the same time.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "Look for a new job.  Each job will have its unique challenges and give you experience that your cannot get when staying in one position for a long time.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 2,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 17
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "Try reading some Ynews or something and getting excited about some tech. Investigating it. It is all about getting back into it. This can only be done by getting some good rest/sleep and going hands on with the code :) ",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Yes, always there is a chance. Speak up with your manager, ask what you want to try and you can try for sometime and transition into the new path. Create a transition path with goals, do a checking daily or weekly and see where you stand and work on that.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 20
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Feeling stuck in your development career can be frustrating and demotivating. Here are some strategies to help you regain momentum or pivot into a new tech area:  **Regaining Momentum:**  1. **Re-evaluate your goals:** Reflect on your original goals and aspirations. Are they still relevant? What new goals do you want to set for yourself? 2. **Take a break:** Sometimes, stepping away from a project or task can help you clear your mind and gain a fresh perspective. 3. **Learn something new:** Expand your skills by learning a new programming language, framework, or technology. This can help you regain interest and excitement in your work. 4. **Change your environment:** If you're feeling stuck in a particular environment, try changing your workspace or working remotely. 5. **Reconnect with your passion:** Reflect on why you started coding in the first place. What problems do you want to solve? What kind of projects do you want to work on?  **Pivoting into a New Tech Area:**  1. **Explore new technologies:** Research new technologies and trends in the industry. Identify areas that interest you and align with your goals. 2. **Network with others:** Attend conferences, meetups, and online forums to connect with other developers and learn about new opportunities. 3. **Take online courses:** Invest in online courses or tutorials to learn new skills and technologies. 4. **Join a community:** Join online communities or forums related to the new technology area you're interested in. This can help you stay up-to-date with the latest developments and connect with others who share your interest. 5. **Start small:** Don't feel pressured to dive into a new technology area immediately. Start with small projects or side hustles to gain experience and build your confidence.  **Additional Tips:**  1. **Be patient:** Changing careers or pivoting into a new tech area takes time. Be patient and don't rush into decisions. 2. **Stay flexible:** Be open to new opportunities and willing to adapt to changes in the industry. 3. **Celebrate small wins:** Celebrate small victories along the way, even if it's just completing a small project or learning a new skill. 4. **Seek guidance:** Reach out to mentors or industry experts for guidance and advice. 5. **Stay positive:** Maintain a positive attitude and focus on your goals. Believe in yourself and your abilities, and you'll be more likely to succeed.  Remember, feeling stuck is a normal part of the career journey. By taking small steps and staying open to new opportunities, you can regain momentum or pivot into a new tech area.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 30
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Feeling stuck is incredibly common at your career stage—you're not alone in this. The transition from structured learning to self-directed career growth can feel overwhelming, but this is actually a perfect time for strategic pivoting. Diagnose the Root Cause: First, identify what's causing the stuck feeling. Is it technical stagnation—doing the same tasks repeatedly? Lack of career clarity? Or perhaps imposter syndrome making you feel behind compared to peers? Understanding the specific issue helps target the solution. The \"Adjacent Possible\" Strategy: Don't make dramatic pivots immediately. Look for technologies or roles that build on your existing ML and programming foundation. For example, if you're interested in DevOps, start with MLOps—deploying and monitoring ML models. If frontend appeals to you, explore data visualization or ML model interfaces. Create Learning Momentum: Start with a 30-day focused learning sprint in your target area. Pick one specific technology or skill and commit to daily practice. The key is consistency over intensity—even 30 minutes daily creates momentum and confidence. German Market Advantages: Germany's tech scene is particularly welcoming to career pivots. Many companies value diverse technical backgrounds. Consider attending local tech meetups in your target area—Berlin, Munich, and Hamburg have active communities where you can network and learn about different paths. Practical Pivot Steps: Build a small project in your target area within 2-3 weeks. Deploy it publicly and write about your experience. This demonstrates capability and commitment to potential employers or collaborators. Leverage Your Unique Position: Your combination of CS education, ML knowledge, and internship experience is valuable. Don't view changing direction as starting over—you're building on a solid foundation.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Feeling stuck in your software development career is common, and regaining momentum or pivoting is entirely achievable. First, identify the root cause: Is it burnout, lack of challenge, or a desire for new technical horizons? Self-reflection is key. To regain momentum in your current path, inject novelty and challenge. Seek new responsibilities within your current role, like leading a small initiative or mentoring a junior colleague. Dedicate 30 minutes daily to learning a new, relevant skill or tool. Engage more with your team, participate in discussions, and ask for specific improvement feedback. Sometimes, a short break can provide the mental reset needed. If a full pivot is desired, leverage your existing foundational skills. Identify a target area like AI/ML, data engineering, or cybersecurity that genuinely excites you. Start by taking online courses or bootcamps and building small personal projects to gain hands-on experience and build a portfolio. Network with professionals in your target field via LinkedIn or local German tech meetups for insights and opportunities. Emphasize your transferable skills—problem-solving, logical thinking, and your internship experience—as these are valuable across all tech specializations. Remember, pivoting is about re-directing your established learning capacity, not starting from zero.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Feeling stuck is common, especially early in your career. Start by identifying whether it’s a skills plateau, lack of challenge, or misalignment with your interests. Reflect on what excites you—building products, solving algorithms, designing systems—and explore areas aligned with those interests, like AI/ML, DevOps, or product-focused roles. Trying a new personal project or contributing to open-source can refresh your motivation and reveal new directions. Take a structured course in a different area—cloud computing, mobile development, or cybersecurity—and see if it resonates. Talking to mentors or peers can offer fresh perspectives and introduce opportunities you hadn’t considered. Update your goals, even small ones, to give yourself direction and daily purpose. If possible, ask your current employer for tasks outside your regular scope to experiment safely. Remember, pivoting doesn’t mean starting over—it means building on your foundation with curiosity and intention.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      }
+    ]
+  },
+  {
+    "question_id": "question_10",
+    "question_text": "10.How can I build and maintain a professional network in the software engineering field (e.g., meetups, online communities, conferences)?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Meetups and Conferences",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 5,
+          "actionability": 3,
+          "empathy_tone": 5,
+          "depth_expertise": 3,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Keep in touch with the people you met, former colleagues, colleagues of colleagues, built a linkedin network, but don't just add random people, this will lead to nothing.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Don't have an answer for this one I'm afraid, this is something I am not at all good at doing.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 5,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "You go to Google or ChatGPT for suggestions.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 1,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 17
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I found meetups (many in Berlin) to be a good spot to meet new people. There is no \"silver bullet\" here though.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Join meetups, read medium articles or similar. There are discord channels for most of the open source communities. Find the conferences of your interest. Host meetups in your organization. Participate in LinkedIn conversations.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Building and maintaining a professional network in the software engineering field is crucial for career advancement, learning, and staying up-to-date with industry trends. Here are some ways to build and maintain a professional network in the software engineering field:  **Meetups:**  1. **Attend local meetups:** Search for meetups in your area focused on software engineering, programming languages, or related topics. Attend events to network with other professionals and learn from their experiences. 2. **Participate in discussions:** Engage in discussions and ask questions to demonstrate your interest and knowledge in the field. 3. **Volunteer:** Offer to help with event organization or moderation to build connections with other attendees.  **Online Communities:**  1. **Reddit:** Participate in subreddits like r/learnprogramming, r/webdev, or r/AskProgramming, and engage in discussions to build connections. 2. **Stack Overflow:** Join Stack Overflow and participate in Q&A sessions to build a reputation and connect with other developers. 3. **GitHub:** Create a GitHub account and contribute to open-source projects to build connections with other developers.  **Conferences:**  1. **Attend conferences:** Research and attend conferences related to software engineering, such as conferences on programming languages, web development, or artificial intelligence. 2. **Network:** Attend networking events, meet other attendees, and exchange contact information. 3. **Present:** Consider presenting a talk or poster to build connections with other attendees and build your reputation as a speaker.  **Other Networking Opportunities:**  1. **Mentorship programs:** Participate in mentorship programs, such as mentorship programs at conferences or online communities, to build connections with experienced professionals. 2. **Professional associations:** Join professional associations, such as the Association for Computing Machinery (ACM) or the Institute of Electrical and Electronics Engineers (IEEE), to connect with other professionals in the field. 3. **Social media:** Utilize social media platforms like LinkedIn, Twitter, or Facebook to connect with other professionals and stay updated on industry trends.  **Tips for Maintaining a Professional Network:**  1. **Stay active:** Regularly participate in online communities, attend meetups, and engage in discussions to maintain connections. 2. **Keep in touch:** Reach out to contacts periodically to catch up and stay connected. 3. **Be helpful:** Offer help or advice to others in your network, and ask for help when needed. 4. **Be authentic:** Be genuine and authentic in your interactions with others, and build connections based on mutual interests and values. 5. **Follow up:** After meeting someone new, follow up with them to build a connection and stay in touch.  By building and maintaining a professional network in the software engineering field, you can:  * Stay up-to-date with industry trends and developments * Learn from others' experiences and share your own * Find new opportunities and job prospects * Collaborate with others on projects and share knowledge * Build your reputation as a professional in the field  Remember to be consistent, patient, and genuine in your networking efforts. Building a professional network takes time and effort, but it can lead to significant benefits in your career and personal growth.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 30
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Building a professional network is absolutely crucial for career growth, especially in Germany where relationships and recommendations carry significant weight. Let me share strategic approaches that work well for early-career engineers. Start Local, Think Global: Germany has excellent tech meetups in major cities. In Berlin, explore Berlin.js, PyData Berlin, or Machine Learning Berlin. Munich has strong communities around automotive tech and enterprise software. Hamburg's startup scene offers great networking opportunities. Start with 1-2 regular meetups rather than trying to attend everything. Meaningful Online Engagement: Join German tech communities on Slack and Discord—many cities have dedicated channels. Stack Overflow in German can help you build reputation while helping others. LinkedIn is essential in Germany's professional culture—share learning insights, comment thoughtfully on others' posts, and connect with speakers from events you attend. The \"Give First\" Approach: Don't just consume—contribute value. Share interesting articles with insights, offer to help with someone's project, or write about problems you've solved. When you help others first, relationships develop naturally. Strategic Conference Investment: As a junior engineer, choose conferences wisely due to cost. re:publica in Berlin covers tech and society. code.talks in Hamburg is excellent for developers. Many conferences offer diversity scholarships or student discounts—don't hesitate to apply. Internal Networking: Don't overlook networking within your current company. Build relationships across teams, not just engineering. Understanding product, design, and business perspectives makes you more valuable and opens unexpected opportunities. Follow-Up is Everything: After meeting someone, send a personalized LinkedIn message within 48 hours referencing your conversation. Many people skip this step, making you memorable. GitHub as Networking: Contribute to open source projects used by companies you admire. This creates natural conversation starters and demonstrates your skills.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Building and maintaining a software engineering network is crucial. Start with local tech meetups in Germany, found on platforms like Meetup.com. Attend, engage in conversations, and ask questions to connect with local developers and uncover opportunities. Next, leverage online communities and professional platforms. LinkedIn is vital; keep your profile current, share relevant content, and participate in industry discussions. Join specialized forums such as Stack Overflow, Dev.to, or Reddit programming subreddits to ask questions, share knowledge, and learn. GitHub is also excellent for networking through open-source contributions, showcasing your skills and collaborating. Attend conferences and workshops, both virtual and in-person, for intensive learning and broad networking. These events expose you to industry leaders and emerging trends. Always follow up with new connections afterwards, perhaps with a personalized LinkedIn message. To maintain your network, consistency is key. Nurture relationships by sharing useful resources, congratulating peers on achievements, and offering help. Being a valuable and supportive community member ensures your network remains strong and beneficial throughout your career.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Start by attending local tech meetups or coding events in cities like Berlin, Munich, or Hamburg—these often welcome newcomers and are great for casual networking. Join online communities on GitHub, Reddit (like r/cscareerquestionsEU), Stack Overflow, or Discord servers focused on specific tech stacks. LinkedIn is valuable for maintaining connections—share your learning journey, comment on others’ posts, and connect after events or collaborations. Contribute to open-source projects or join hackathons to meet developers with similar interests. Conferences like DevDays, PyCon DE, or React Europe can be excellent for both learning and networking; even attending virtually provides access to community chats and discussions. When you meet people, focus on building genuine relationships—ask questions, show interest, and offer help where you can. Keep in touch periodically, whether by sharing resources, checking in, or collaborating on small projects. Over time, a strong professional network becomes both a support system and a source of opportunities.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      }
+    ]
+  },
+  {
+    "question_id": "question_11",
+    "question_text": "11.What is the typical work environment like for software engineers (e.g., team structure, agile practices, remote culture)?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "Team of 5-6 engineers, Scrum based project management and yes it doesn't matter if it is remote or in office.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 5,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "This highly depends on the job and basically everything is available. Usually working hours are quite flexible.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 1,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 17
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "I haven't been in the job market for long enough to be able to answer this confidently, but it's my feeling that there is a larger expectation for remote positions in software engineering roles even post-covid. The other points I can't really comment about, but it surely varies a lot from company to company.",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 17
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "Nowadays, most companies try to follow agile methodology to manage their workflows. However, some companies still stick to the  waterfall model for project management, which makes sense for startups. About the working model, after COVID, most companies start working remotely or use a hybrid system, which is more efficient. However, some companies believe that working onsite is so beneficial for creating a bond between colleagues.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "A typical setup, in 80% of the software company cases will have: a task board, a team of 4-6 people (can be a specialized team or a mix of front/back/devops), an Engineering Manager, a Product Manager. There will be weekly or bi-weekly sprints OR a Kanban approach.  The possibility of working remotely had peaked during and right after the COVID period, and now the companies prefer that employees work from office. This is just a general tendency of the past couple of years.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 2,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 18
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "The typical work environment for software engineers is built around collaborative, cross-functional teams often composed of developers with varying levels of experience (from junior to senior), alongside product managers, designers, and sometimes QA or DevOps specialists. This diversity in skill sets creates a rich learning environment, especially for engineers looking to grow across the full stack.  Agile practices are commonly followed to bring structure and alignment within the team. These practices like daily standups, sprints, and retrospectives are meant to promote discipline and keep everyone working toward a shared goal. However, itâ€™s important that teams stay flexible and avoid being overly process heavy. Agile should serve the team, not slow it down.  Strong engineering teams also track key performance indicators such as deployment frequency, lead time for changes, and mean time to recovery. These metrics help ensure that engineering efforts are aligned with both speed and reliability.  When it comes to work locationâ€” whether remote, hybrid, or on-site what really matters is team collaboration. A well-functioning team communicates openly, shares knowledge, and supports each other regardless of physical presence.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "The typical work environment for software engineers can vary depending on the company, industry, and specific role. However, here are some common aspects of the work environment for software engineers:  **Team Structure:**  1. **Scrum Teams:** Many software companies use Scrum as a framework for managing their work. Scrum teams typically consist of 3-9 members, including a product owner, scrum master, and developers. 2. **Agile Teams:** Agile teams are often structured around a Kanban board, where work is organized into columns representing different stages of development (e.g., backlog, development, testing, deployment). 3. **Feature Teams:** Feature teams focus on delivering specific features or products, often with a dedicated product owner and cross-functional team members.  **Agile Practices:**  1. **Daily Stand-ups:** Daily stand-ups are a daily meeting where team members share their progress, goals, and any obstacles they're facing. 2. **Sprints:** Sprints are time-boxed periods (usually 2-4 weeks) where the team works on specific goals and objectives. 3. **Backlog Refinement:** Backlog refinement is the process of prioritizing and refining the product backlog, ensuring that it's ready for the next sprint. 4. **Code Reviews:** Code reviews are a critical part of the development process, where team members review each other's code to ensure quality, consistency, and best practices.  **Remote Culture:**  1. **Virtual Meetings:** With the rise of remote work, virtual meetings have become common. Tools like Zoom, Slack, and Google Meet are used to facilitate remote communication. 2. **Async Communication:** Async communication, such as email or messaging apps, is often used to supplement virtual meetings and ensure that team members are on the same page. 3. **Collaboration Tools:** Collaboration tools like Trello, Asana, or Jira are used to track progress, assign tasks, and facilitate team collaboration. 4. **Flexible Work Arrangements:** Many companies offer flexible work arrangements, such as flexible hours, remote work options, or compressed workweeks, to support work-life balance.  **Other Aspects:**  1. **Autonomy:** Software engineers often have a high degree of autonomy, allowing them to make decisions and take ownership of their work. 2. **Continuous Learning:** Continuous learning is encouraged, with many companies providing training, mentorship, and opportunities for professional development. 3. **Feedback Culture:** Feedback culture is important, with companies seeking to create an environment where team members feel comfortable sharing their thoughts and opinions. 4. **Work-Life Balance:** Work-life balance is increasingly important, with many companies recognizing the importance of taking breaks, practicing self-care, and pursuing hobbies outside of work.  Keep in mind that these are general trends, and the specific work environment can vary depending on the company, industry, and role. It's essential to research the company culture and work environment before joining a new team.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Let me give you realistic expectations about modern software engineering work environments, particularly in the German context where you'll be working. Team Structure and Dynamics: Most teams follow cross-functional models with 5-8 people including developers, a product manager, designer, and sometimes a QA engineer. You'll typically report to an engineering manager or tech lead. German companies often have flatter hierarchies than US counterparts, meaning more direct access to decision-makers but also higher expectations for independent work. Agile is Standard (With Variations): Expect some form of Scrum or Kanban—daily standups, sprint planning, and retrospectives are nearly universal. However, many teams adapt these practices to their needs. German engineering culture tends to be more structured than Silicon Valley's \"move fast and break things\" approach, with emphasis on quality and documentation. Remote and Hybrid Reality: Post-pandemic, most German companies offer hybrid arrangements—typically 2-3 days in office, 2-3 remote. Pure remote positions exist but are less common in traditional German companies. Expect excellent tooling for remote collaboration: Slack/Teams, Confluence/Notion for documentation, and robust CI/CD pipelines. Daily Workflow: Your typical day includes: morning standup, focused coding blocks (2-4 hours), code reviews, some meetings (architecture discussions, planning sessions), and documentation. German companies generally protect \"deep work\" time better than their US counterparts. Code Quality Culture: Expect rigorous code reviews, automated testing requirements, and emphasis on maintainable code. German engineering culture values thoroughness—rushing to production without proper testing and documentation is discouraged. Professional Development: Most companies provide learning budgets, conference attendance, and internal tech talks. Career development conversations happen regularly, typically quarterly. Collaboration Patterns: You'll work closely with product managers to understand requirements, with designers on user experience, and mentor junior developers as you grow. Cross-team collaboration is common for larger features.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "The typical software engineering work environment, especially in Germany, centers on collaboration, structured processes, and increasing agile adoption, alongside evolving remote trends. Teams are usually cross-functional, comprising diverse skills like frontend, backend, QA, and DevOps, often led by a team lead. In Germany, teams tend to be stable, fostering deep domain knowledge. Agile methodologies like Scrum or Kanban are widely used. This means work is organized into short sprints with daily stand-ups and regular planning. The focus is on iterative development and quick feedback. While Germany embraces agility, some companies retain traditional planning elements, though the trend is towards self-organized teams. Remote work is now significant, with hybrid models becoming the norm in Germany, combining home and office work. Fully remote roles exist but are less common in established German companies. German labor laws ensure strong work-life balance (under 40 hours/week, 25-30 annual vacation days), extending to remote setups with clear boundaries. Companies invest in tools for seamless remote collaboration.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Typical software engineering work environments vary, but many teams follow Agile methodologies like Scrum or Kanban, focusing on iterative development and regular communication through daily stand-ups and sprint planning. Teams are usually cross-functional, including developers, testers, designers, and product managers collaborating closely. You can expect pair programming or code reviews to maintain quality and share knowledge. With remote work becoming common—especially in Germany and across Europe—many companies support flexible schedules and use tools like Slack, Jira, and Zoom to stay connected. The culture tends to encourage continuous learning, open communication, and ownership of tasks. Some workplaces are fast-paced startups with informal hierarchies and quick decision-making, while larger companies have more structured processes and defined roles. Regardless of size, teamwork, adaptability, and clear communication are essential for success.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 2,
+          "depth_expertise": 3,
+          "personalization": 1,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 18
+      }
+    ]
+  },
+  {
+    "question_id": "question_12",
+    "question_text": "12.What are the job prospects and average salary ranges in different software engineering domains (e.g., AI, web, embedded systems)?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "AI - easily 80k. Web - 70 - 80l Embedded systems - 60 - 70k",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 5,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "On a more junior to midlevel range job prospects are only so-so any more, since there was high demand in the past a lot of junior devs are flooding the market. Make sure not to be just one of those, but have something that makes you stand out. Salary ranges differ, not only from field to field but also from industry to industry. Pharma, automotive and finance tend to pay better, but usually are quite big and unflexible companies.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "In general, post the COVID boom the market is absolutely flooded with Juniors. This is not necessarily a bad thing, it just means that more effort is required to get the job. There will always be room for the greats.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 1,
+          "empathy_tone": 2,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 19
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "For having insights about the suitable range based on position, you can explore Glassdoor, Indeed, or other related websites which report salary ranges yearly based on their users experience. As I read before, I believe that salary range for AI or embedded systems engineers are higher than other positions in recent years. Generally, I can say that for junior positions, you can expect a range between 35K to 45K in Germany.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I would not be able to give you any prcise numbers on the salary ranges, but the rule of thumb is: the more experienced the engineer is - the higher is the pay.  Given the explosive growth of LLM, most of the job domains (web, backend, embedded systems, etc.) will go through a significant transformation and we will only be able to realize what that means in practice, only after some 3 - 5 years from now. It is really difficult to say/predict anything else besides this, given the dynamic nature of the domain.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "The salary range depends on many factors, like which level you are applying for (junior, midlevel, senior, or even manager), and job details can affect that. if it is a complicated position and requires special skills, that would be higher in salary. The best place to find out is LinkedIn job posts or Indeed, but generally, I believe AI ranges in salaries is more than others. ",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Job prospects and average salary ranges in different software engineering domains can vary depending on factors such as location, industry, and company size. However, here are some general trends and salary ranges for different software engineering domains:  **AI and Machine Learning:**  * Job prospects: High demand, with many companies seeking AI and machine learning engineers to build intelligent systems and applications. * Average salary range: $125,000 - $200,000 per year, depending on the location and level of experience. * Top companies: Google, Amazon, Facebook, Microsoft, IBM, and NVIDIA.  **Web Development:**  * Job prospects: High demand, with many companies seeking web developers to build and maintain online applications and websites. * Average salary range: $80,000 - $150,000 per year, depending on the location and level of experience. * Top companies: Google, Facebook, Amazon, Microsoft, and IBM.  **Embedded Systems:**  * Job prospects: Moderate demand, with many companies seeking embedded systems engineers to develop and maintain embedded systems, such as automotive, industrial, and medical devices. * Average salary range: $80,000 - $140,000 per year, depending on the location and level of experience. * Top companies: Intel, Texas Instruments, Analog Devices, and STMicroelectronics.  **Cloud Computing:**  * Job prospects: High demand, with many companies seeking cloud engineers to design and implement cloud-based systems and applications. * Average salary range: $120,000 - $200,000 per year, depending on the location and level of experience. * Top companies: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud, and Oracle Cloud.  **Cybersecurity:**  * Job prospects: High demand, with many companies seeking cybersecurity engineers to protect their networks, systems, and data from cyber threats. * Average salary range: $100,000 - $180,000 per year, depending on the location and level of experience. * Top companies: Lockheed Martin, Raytheon Technologies, IBM, and Dell.  **Data Science:**  * Job prospects: High demand, with many companies seeking data scientists to analyze and interpret complex data sets and make informed business decisions. * Average salary range: $100,000 - $160,000 per year, depending on the location and level of experience. * Top companies: Google, Amazon, Facebook, Microsoft, and IBM.  **Game Development:**  * Job prospects: Moderate demand, with many companies seeking game developers to create engaging and interactive games for various platforms. * Average salary range: $60,000 - $120,000 per year, depending on the location and level of experience. * Top companies: Electronic Arts (EA), Activision Blizzard, Ubisoft, and Rockstar Games.  **IoT:**  * Job prospects: High demand, with many companies seeking IoT engineers to develop and implement IoT solutions for various industries. * Average salary range: $90,000 - $150,000 per year, depending on the location and level of experience. * Top companies: Intel, Texas Instruments, ARM Holdings, and Qualcomm.  **Network Security:**  * Job prospects: High demand, with many companies seeking network security engineers to protect their networks and systems from cyber threats. * Average salary range: $90,000 - $160,000 per year, depending on the location and level of experience. * Top companies: Cisco Systems, Juniper Networks, Palo Alto Networks, and Check Point.  **Robotics:**  * Job prospects: Moderate demand, with many companies seeking robotics engineers to develop and implement robotic systems for various industries. * Average salary range: $80,000 - $140,000 per year, depending on the location and level of experience. * Top companies: Kuka, ABB, FANUC, and Yaskawa.  Keep in mind that these are general trends and salary ranges, and actual salaries can vary depending on many factors, including location, industry, company size, and level of experience.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 5,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Based on current market data, here's a comprehensive overview of job prospects and salary ranges across different software engineering domains in Germany: AI/Machine Learning - Excellent Prospects: AI and ML engineers in Germany earn competitive salaries, with an average annual salary of EUR 58,280 (approximately EUR 4,856 per month. However, AI, Machine Learning, and Cloud Development – Specializations that can earn EUR 80,000. Given your ML background, this field offers strong growth potential, especially in Germany's automotive and industrial sectors. Web Development - Solid Demand: The average software developer salary Germany is around 70,000 euros .Full-stack and frontend developers are in consistent demand, particularly in Berlin's startup scene and for enterprise applications. Embedded Systems - Strong in Traditional Industries: The average salary for an embedded software engineer in Germany is between €60k–€96k, with Munich reaching a maximum of €85k due to the strong market need in automotive, IoT, and industrial automation .This aligns perfectly with Germany's automotive industry strength. Overall Market Context: Software engineer annual compensation will carry a significant range, according to experience, location, and specialization (€50k to €120k per annum). As a junior engineer, the median gross salary for a junior software engineer in Germany is approximately €56,000 per year. Geographic Variations: Berlin and Munich typically offer the highest salaries, with Berlin being strong for startups and fintech, while Munich excels in automotive and enterprise software. Hamburg offers good opportunities in logistics tech and media. Job Market Outlook: Germany has excellent job security due to strong labor laws, and the tech sector continues growing. The country's focus on Industry 4.0, automotive innovation, and digital transformation creates sustained demand across all these domains.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 25
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Job prospects for software engineers in Germany are strong across various domains, influenced by location and company size. AI/Machine Learning (AI/ML) Engineering: This field is rapidly expanding with high demand across industries like automotive and finance. The job outlook is excellent. Entry-level salaries typically range from €50,000 - €70,000, with average salaries around €65,000 - €75,000. Experienced professionals can earn €85,000 - €120,000+. Web Development (Frontend, Backend, Full-stack): This remains a consistently in-demand field, vital for nearly all businesses. Job prospects are stable and strong. Entry-level salaries usually start around €40,000 - €50,000. Average salaries are often €55,000 - €65,000, with senior roles reaching €70,000 - €80,000+. Embedded Systems Engineering: Germany's robust industrial and automotive sectors drive steady demand for these engineers, particularly in southern Germany. Roles involve programming hardware for cars, machinery, and IoT devices. Entry-level salaries begin around €45,000 - €55,000. The average is typically €60,000 - €70,000, and experienced professionals can earn €75,000 - €95,000+. Overall, AI/ML currently shows the highest growth and competitive salaries, but web and embedded systems offer stable, well-paying careers essential to the German economy.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Job prospects vary by domain, but software engineering overall remains strong in Germany and globally. Web development roles, including frontend and backend, are abundant and offer steady opportunities with average entry-level salaries around €45,000–€55,000 annually. AI and machine learning positions are growing rapidly, often requiring specialized skills, with starting salaries typically between €50,000 and €65,000, reflecting high demand. Embedded systems jobs are more niche, often tied to industries like automotive or IoT, with average salaries slightly lower but still competitive, roughly €45,000–€55,000. DevOps and cloud engineering roles have surged as companies move to cloud platforms, offering salaries in a similar range to AI roles, sometimes higher. Keep in mind salaries depend on location, company size, and experience. Career growth in all domains benefits from continuous skill development and networking, and you can often transition between domains by building relevant experience.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 28
+      }
+    ]
+  },
+  {
+    "question_id": "question_13",
+    "question_text": "13.How many years of education or practical training are generally needed to secure an entry-level software engineering job?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "As long as you have projects in your portfolio, you can fetch a job",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 2,
+          "actionability": 1,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 16
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "In germany a bachelor studies or a practical training for 2.5-3 years are considered a complete education, those 6 month coding bootcamps will lead to nothing.",
+        "evaluation": {
+          "relevance": 1,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 20
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "I am self taught, so once again my insight will be rather uninteresting here. I would focus much more on the practical aspect - at the end of the day, the CV stage is something that requires some tangible things",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 1,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 18
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "Most people think that to find a job, they need to have at least one bachelor's degree in the related major. But I saw lots of people who didn’t even have any related academic background and are still so successful in their jobs. I believe your enthusiasm is so important for starting any career. You have to start to learn the fundamentals, because it's so crucial to have this knowledge for the next steps and help you to understand better. But generally, I can say with around 1 year of internship experience, and of course with a good understanding of the related area, you can secure an entry-level position",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I think that varies a lot. There can be different scenarios. There can be people who came out fresh from the uni, after studying CS, or there can be people who studied some social sciences (for instance) and worked as QA engineers for a year or two and then made the leap into software engineering.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 21
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "at least the bachelor degree",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 2,
+          "actionability": 1,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 18
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "The number of years of education or practical training needed to secure an entry-level software engineering job can vary depending on several factors, such as the specific company, industry, and location. However, here are some general guidelines:  **Bachelor's Degree:**  * Typically, a bachelor's degree in computer science, software engineering, or a related field is required for most entry-level software engineering positions. * The degree program typically takes four years to complete. * Some companies may require a master's degree or higher for certain positions.  **Practical Training:**  * Many companies require or prefer candidates with practical experience or training in software development. * This can include internships, co-op programs, or coding boot camps. * The amount of practical training required can vary from a few months to a few years.  **Certifications:**  * Some companies may require or prefer candidates with certifications in software engineering, such as the Certified Software Development Associate (CSDA) or the Certified Professional in Software Engineering (CPSE). * These certifications can be obtained through online courses or professional organizations.  **Online Courses:**  * Online courses and tutorials can provide a good foundation in software engineering, but may not be sufficient for securing an entry-level job. * Some companies may require or prefer candidates with online certifications or training in software development.  **Experience:**  * Many companies require or prefer candidates with some experience in software development, such as internships, freelance work, or personal projects. * The amount of experience required can vary from a few months to a few years.  **Combination of Education and Practical Training:**  * Some companies may require or prefer candidates with a combination of education and practical training in software engineering. * This can include a bachelor's degree in computer science or software engineering, as well as practical experience or training in software development.  In summary, while a bachelor's degree in computer science or software engineering is typically required for most entry-level software engineering positions, practical training and experience can also play a significant role in securing a job.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "You're actually in an excellent position already! Let me break down the typical pathways and show you where you stand. Your Current Position: With your Bachelor's in Computer Science plus 6-month internship, you already meet or exceed the minimum requirements for most entry-level positions in Germany. Many companies consider internship experience equivalent to 6-12 months of full-time work experience. Standard Educational Pathways: Bachelor's Degree (3-4 years): This is the most common path and what you've completed. German companies highly respect formal CS education, especially from German universities or equivalent international programs. Alternative Pathways: Bootcamps (3-6 months): Intensive programs that focus on practical skills. These work well for career changers but typically require additional self-study to match your theoretical foundation. Self-taught + Portfolio (1-3 years): Increasingly accepted, especially for web development roles. However, having your degree gives you a significant advantage in Germany's credential-conscious job market. Apprenticeship Programs (2-3 years): Germany's unique \"Ausbildung\" system offers IT apprenticeships, but these are typically for those without university education. Practical Training Reality: Most successful candidates combine formal education with practical experience through internships, personal projects, or contributions to open source. Your internship experience puts you ahead of many new graduates who only have academic projects. German Market Specifics: German employers value structured learning and formal qualifications more than some other markets. Your CS degree carries significant weight, especially for larger companies like SAP, Siemens, or automotive firms. Entry-Level Readiness: You're ready to apply for junior developer positions now. The key isn't more education time—it's demonstrating your skills through projects and continuing to learn on the job.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Securing an entry-level software engineering job typically requires 3-4 years for a traditional Bachelor's degree in Computer Science, providing a strong theoretical base and internship opportunities in Germany. Faster routes include intensive coding bootcamps, which condense practical, job-ready skills into 3-12 months. Many successfully enter the field this way, even with a different initial degree. Self-taught individuals might take 6 months to 2 years of dedicated study to build a competitive portfolio. This path demands strong discipline and a structured learning approach. Regardless of the learning path, practical experience is vital. Your 6-month internship is a significant asset, as employers highly value hands-on experience and the ability to apply knowledge to real-world problems. German vocational training (Ausbildung) also offers a structured path over roughly three years, combining study with on-the-job training.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Typically, securing an entry-level software engineering job requires a Bachelor’s degree in Computer Science or a related field, which usually takes about three to four years in Germany. However, many companies also value practical experience gained through internships, coding bootcamps, or self-directed projects, which can sometimes substitute formal education. A six-month to one-year internship or apprenticeship can significantly improve your chances. Some employers hire candidates without degrees if they demonstrate strong coding skills and practical knowledge through portfolios or coding tests. Overall, combining formal education with hands-on experience, like internships or personal projects, usually sets you up well to land an entry-level role.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 25
+      }
+    ]
+  },
+  {
+    "question_id": "question_14",
+    "question_text": "14.What do employers typically look for in a strong resume or portfolio for a software engineering role?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "How the projects have been developed, if projects are easily accessible",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Have experience in your field and a certain technology stack. If you can do everything a bit, you can do nothing. Have some projects to show of, but should be real world ones and not just 3 create-react-app templates in your github. It is nice if you have stuff like blogposts, medium articles etc, but they should be good, rather have none then bad ones",
+        "evaluation": {
+          "relevance": 2,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 18
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Side projects around things that interest you are a great way to stand out from the crowd and show that you really love this. Aside from this, I feel like too much job hopping does not paint a great picture about the person. Frequent changes with less than 18/24 months in house is not well seen. Great communication goes a long way for interviews, of course.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 3,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "Your resume should present you and your skills in a clear way, so the employers can detect your strengths at a glance. So, try to be so directive to express your expertise and bolster your knowledge in a proper way. Put a separate area for just naming your skills that would be so eye-catching. Try to declare your duties or achievements from your past experience so they can have better insights into you.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 5,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 31
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "I cannot speak for the multitude of employers and the things that they could be looking for, but I would go with something like: the ability to be independent developer (something along the lines of \"be their own engineering manager\") and have a number of individual projects, since that shows that the person prefers to invest even their spare time coding.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Matching skills, motivation and the location",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Employers typically look for a strong resume or portfolio for a software engineering role that showcases a candidate's technical skills, experience, and achievements. Here are some key elements that can make a strong impression:  **Technical Skills:**  * Proficiency in programming languages, frameworks, and tools relevant to the job description. * Familiarity with software development methodologies, such as Agile or Waterfall. * Experience with cloud platforms, such as AWS or Azure. * Knowledge of databases, such as relational databases or NoSQL databases.  **Experience:**  * A strong track record of delivering high-quality software projects on time and within budget. * Experience working with cross-functional teams, including product management, design, and QA. * Leadership experience, such as leading a team or mentoring junior engineers.  **Achievements:**  * Successful project management, including project planning, execution, and delivery. * Contribution to open-source projects or community-driven initiatives. * Awards or recognition for outstanding contributions to software engineering.  **Education and Certifications:**  * A bachelor's or master's degree in Computer Science, Software Engineering, or a related field. * Professional certifications, such as the Certified Software Development Associate (CSDA) or the Certified Professional in Software Engineering (CPSE).  **Portfolio:**  * A portfolio that showcases a candidate's best work, including code samples, projects, or case studies. * A portfolio that demonstrates a candidate's ability to solve complex problems and communicate technical concepts effectively.  **Soft Skills:**  * Strong communication and collaboration skills, including experience working with cross-functional teams. * Excellent problem-solving and analytical skills, including the ability to debug and troubleshoot code. * Adaptability and willingness to learn new technologies and frameworks.  **Additional Tips:**  * Tailor the resume and portfolio to the specific job description and requirements. * Use clear and concise language to describe technical skills and experience. * Highlight achievements and accomplishments rather than just listing job responsibilities. * Use relevant keywords and phrases from the job description to help the resume pass through applicant tracking systems (ATS). * Include a professional online presence, such as a LinkedIn profile, to demonstrate expertise and showcase projects.  Remember, a strong resume and portfolio are just the starting point. It's essential to demonstrate technical skills and experience during the interview process to secure a software engineering role.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 4,
+          "depth_expertise": 5,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 31
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Let me help you create a compelling resume and portfolio that resonates with German employers, who have specific preferences compared to other markets. Resume Structure for German Market: German technical resumes should be 1-2 pages, chronological, and include a professional photo (standard practice there). Lead with a brief summary highlighting your CS degree, ML background, and internship experience. German employers appreciate seeing your technical foundation clearly stated upfront. Technical Skills Section: Organize by proficiency level rather than just listing everything. For example: \"Advanced: Python, OOP, Git\" and \"Intermediate: HTML/CSS, Machine Learning frameworks.\" Be honest about skill levels—German interview processes will test your claims thoroughly. Experience That Matters: Your 6-month internship is gold—detail specific contributions, technologies used, and measurable outcomes. Instead of \"participated in code reviews,\" write \"conducted code reviews for 15+ pull requests, identifying performance improvements that reduced API response time by 200ms.\" Project Portfolio Strategy: Quality over quantity. 3-4 well-documented projects beat 10 basic ones. Include: one that showcases your ML skills, one web application, and one that demonstrates clean code practices. For each project, provide GitHub links, live demos if possible, and explain your technical decisions. German-Specific Expectations: Include your education details thoroughly—German employers want to see your thesis topic, relevant coursework, and grades if strong. Mention any German language skills and cultural familiarity. If you've worked with German development practices or tools, highlight this. Portfolio Presentation: Create a clean, professional website showcasing your work. Include project walkthroughs with code snippets, architecture diagrams, and lessons learned. German employers appreciate seeing your thought process and problem-solving approach. GitHub Profile: Ensure your GitHub shows consistent activity, well-documented READMEs, and clean commit messages. Pin your best repositories and include setup instructions—German developers value thoroughness. Cover Letter Strategy: German cover letters are more formal and detailed than US ones. Research each company thoroughly and explain specifically why you want to work there and how your skills address their needs.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 27
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "Employers evaluating resumes and portfolios for software engineering roles, particularly for junior positions in Germany, seek a clear demonstration of core technical abilities, practical application, and soft skills, all presented concisely. A strong resume effectively highlights your technical skills, listing relevant programming languages, frameworks, and tools. Crucially, it goes beyond mere listing by showcasing how you've applied these skills in projects, internships, or academic work. Quantifiable achievements are highly valued; instead of \"worked on a feature,\" state \"optimized database queries, reducing load time by 30%.\" Tailoring your resume to each job description, incorporating keywords from the posting, is essential for passing Applicant Tracking Systems (ATS). For Germany specifically, a professional photo and clear, concise formatting are often expected, typically adhering to a two-page maximum. Your portfolio, often linked from your resume, is where you provide tangible proof of your abilities. This should feature 2-3 of your best projects, which could be personal initiatives, open-source contributions, or significant academic assignments. For each project, clearly describe the problem you solved, your role in the solution, the technologies used, and the measurable outcome. Include links to live demos or GitHub repositories with clean, well-documented code. Employers want to see your thought process, problem-solving approach, and ability to deliver functional software. Beyond technical prowess, employers look for soft skills demonstrated through your experiences. These include strong communication, teamwork, adaptability, and a proactive attitude towards learning. Highlight collaborative efforts in your internship or group projects. Ultimately, a strong resume and portfolio tell a compelling story of your potential, showcasing your foundational knowledge, practical application, and eagerness to grow within a professional team.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "Employers look for clarity, relevance, and evidence of skills in resumes and portfolios. A strong resume highlights your technical skills—programming languages, frameworks, tools—and pairs them with concrete achievements or projects, showing how you applied those skills. Including internships, contributions to open-source, or personal projects demonstrates practical experience. Clear descriptions of your role and impact, such as improving code efficiency or leading a feature, add value. Portfolios should showcase well-documented, accessible code—preferably on GitHub—with diverse examples like web apps, algorithms, or ML models. Employers also appreciate signs of continuous learning, such as certifications or completed courses. Soft skills like teamwork and communication, if relevant, can be briefly mentioned or shown through project collaboration. Finally, tailoring your resume to the job description, using keywords, and keeping it concise and error-free will help you stand out.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 5,
+          "actionability": 3,
+          "empathy_tone": 5,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 30
+      }
+    ]
+  },
+  {
+    "question_id": "question_15",
+    "question_text": "15.What are the biggest challenges in finding a software engineering job today, and how can new graduates or job-switchers overcome them?",
+    "responses": [
+      {
+        "responder_id": "Expert 1",
+        "response_text": "People copy paste their projects from others which is really problematic. One should start their own 1-2 projects and keep adding features to it.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 22
+      },
+      {
+        "responder_id": "Expert 2",
+        "response_text": "Salary ranges differ widely and there are tons of junior devs on the market. Make sure to be quit proficient in some tech and make sure to apply to jobs that you really fit and that you can be passionate about. A good recruiter will feel your passion about something when you do an interview and this might be worth a whole lot!",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 2,
+          "empathy_tone": 3,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 20
+      },
+      {
+        "responder_id": "Expert 3",
+        "response_text": "Funny enough, that would be the misuse of AI in my opinion. With such a powerful tool at our hands, it's not always easy to do the right thing. Especially for Juniors, AI should be used with great care. Software engineering is largely about pattern recognition - once you've seen enough little problems and know how to solve them, any new one will likely just be a slightly different combination of those little problems you have cached. Recognizing the similarities between them allows you at the very least to have a better hunch at how to solve the problem. If you miss the opportunities to learn with these little problems early in your career by turning to AI and copy pasting the very first thing you find, you will miss out on the opportunity to expand your toolbox. I believe you will pay for this strategic flaw later on.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 2,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 24
+      },
+      {
+        "responder_id": "Expert 4",
+        "response_text": "In recent years, lots of immigrants have come to Germany and there is are lot of competition in the job market. So, if you are trying to find a job in Germany and you don't speak German, you have to consider that finding a job in English is more difficult nowadays, as the demands are so high. Secondly, most companies prefer to employ mid-level or senior developers, as they don't want to or don't have enough resources to invest in interns or juniors to educate them. You need to find the companies who have this background or look for internship programs.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 5,
+          "empathy_tone": 4,
+          "depth_expertise": 3,
+          "personalization": 4,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 5",
+        "response_text": "Disproportional ratio of the offer vs. demand. The market has drastically changed over the past 5 years (due to new tech, automation, LLMs, etc), thus making individual developers more productive. This is the overall global tendency and I feel that the matter will only get worse for individual developers. This might be especially pronounced for the fresh/juniour developers.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 3,
+          "actionability": 1,
+          "empathy_tone": 2,
+          "depth_expertise": 2,
+          "personalization": 2,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 16
+      },
+      {
+        "responder_id": "Expert 6",
+        "response_text": "Competition is high, AI is evolving, AI can help you write the code or suggest to you on the architecture, but that cannot be a replacement for the human brain. Itâ€™s not just about writing code anymore, itâ€™s about solving problems, adapting quickly, and using tools like AI effectively. Focus on becoming the kind of engineer who can think critically, build confidently, and grow continuously.",
+        "evaluation": {
+          "relevance": 3,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 5
+        },
+        "evaluation_total": 26
+      },
+      {
+        "responder_id": "Expert 7",
+        "response_text": "Finding a software engineering job can be challenging, especially for new graduates or job-switchers. Here are some of the biggest challenges and tips on how to overcome them:  **Challenge 1: Competition**  * Many job seekers are competing for a limited number of positions. * Solution: Highlight unique skills, experience, and achievements in the resume and online profiles. * Tip: Tailor the resume and cover letter to the specific job description and requirements.  **Challenge 2: Limited job openings**  * Many companies are not hiring due to budget constraints, restructuring, or other reasons. * Solution: Expand the job search to include startups, smaller companies, and non-traditional industries. * Tip: Consider freelance or contract work to gain experience and build a network.  **Challenge 3: Lack of experience**  * Many new graduates or job-switchers lack relevant work experience. * Solution: Highlight relevant projects, internships, or volunteer work in the resume and online profiles. * Tip: Offer to work on a trial basis or as a freelancer to gain experience and build a portfolio.  **Challenge 4: Changing technology and skills**  * The software engineering field is constantly evolving, and new technologies and skills are emerging. * Solution: Stay up-to-date with the latest technologies and skills through online courses, tutorials, and certifications. * Tip: Highlight transferable skills, such as problem-solving, communication, and teamwork, which are valuable across different technologies and industries.  **Challenge 5: Networking**  * Many job openings are filled through referrals or word-of-mouth. * Solution: Attend industry events, join professional organizations, and connect with professionals in the field on LinkedIn. * Tip: Prepare a strong elevator pitch and be ready to talk about your skills, experience, and achievements.  **Challenge 6: Salary and benefits**  * Many job seekers are looking for competitive salaries and benefits. * Solution: Research the market salary range and benefits package for the specific job and company. * Tip: Be prepared to negotiate salary and benefits during the interview process.  **Challenge 7: Company culture and fit**  * Many job seekers are looking for a company culture and work environment that aligns with their values and goals. * Solution: Research the company culture and values before applying or accepting a job offer. * Tip: Ask questions during the interview process to get a sense of the company culture and values.  **Challenge 8: Limited job opportunities in specific areas**  * Some areas, such as artificial intelligence or cybersecurity, may have limited job opportunities. * Solution: Consider working on projects or contributing to open-source initiatives to gain experience and build a portfolio. * Tip: Highlight transferable skills and adaptability to different technologies and industries.  By understanding these challenges and tips, new graduates or job-switchers can increase their chances of finding a software engineering job that aligns with their skills, experience, and goals.",
+        "evaluation": {
+          "relevance": 5,
+          "clarity": 4,
+          "actionability": 4,
+          "empathy_tone": 3,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 28
+      },
+      {
+        "responder_id": "Expert 8",
+        "response_text": "Based on the current market data, let me give you a realistic picture of today's challenges and specific strategies to overcome them. Current Market Reality: The global picture is mixed—there's a tougher job market with more competition, less \"shopping around,\" and companies becoming more selective with their technical hires . However, there's been 47% growth in job postings for entry-level software engineers, with 71,184 unique job listings for developers with 0–3 years of experience . Germany-Specific Advantages: You're in a favorable position! Germany's job market is looking solid with GDP expected to grow by 1.0% in 2025, and unemployment staying low at around 3.1%. More importantly, Germany's tech job market is booming, with software developers in high demand, and the country could face a shortage of up to 100,000 IT professionals by 2025  Biggest Challenges: 1.\tExperience Gap: The disconnect between academic knowledge and real-world experience remains a major hurdle, with employers valuing hands-on project experience, internships, or open-source contributions. Your internship experience addresses this directly. 2.\tHigher Performance Expectations: Companies are more selective, leading to slower hiring timelines and growing competition for the highest-paying engineering jobs  3.\tSkills Mismatch: Engineers who can adapt to broader industry shifts in finance, automation, and security will be best positioned to thrive  Strategies to Overcome These Challenges: Leverage Your Advantages: Your CS degree + internship experience puts you ahead of many candidates. Despite thousands of IT graduates finishing university each year, the number of offers in the IT industry exceeded 86,000 in 2020, and this gap is only increasing. Target the Right Opportunities: Focus on companies that value your ML background—automotive (BMW, Mercedes), industrial automation (Siemens), or fintech startups. Entry-level software developers earn around €43,000, which is a solid starting point. Build Real-World Credibility: Create 2-3 production-ready projects that solve actual problems. Deploy them live and document your process. This demonstrates the practical experience employers seek. Network Strategically: Companies are struggling to fill IT positions locally and have turned to the international market . this to your advantage by connecting with international talent communities in German cities.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 3,
+          "depth_expertise": 3,
+          "personalization": 3,
+          "bias_fairness": 3
+        },
+        "evaluation_total": 23
+      },
+      {
+        "responder_id": "Expert 9",
+        "response_text": "The biggest challenges for new software engineering graduates or job-switchers are intense competition, a gap between academic knowledge and practical industry skills, and the rapid evolution of technology. Many entry-level roles now seek candidates with prior experience, making initial entry difficult. Additionally, the fast pace of tech demands continuous learning of new languages, frameworks, and tools like cloud platforms and DevOps. For those seeking jobs in Germany, language barriers can also be a hurdle where German proficiency might be preferred or required. To overcome these, prioritize building a strong, project-based portfolio showcasing practical application of your skills, highlighting quantifiable achievements from your internship. Actively network at local meetups and online communities like LinkedIn to build connections. Tailor your resume and cover letter for each job, using keywords, and rigorously practice for technical and behavioral interviews. Emphasize continuous learning and adaptability, considering specialization in high-demand areas like AI or cloud. Persistence and resilience are crucial throughout the job search.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 5,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 4,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 29
+      },
+      {
+        "responder_id": "Expert 10",
+        "response_text": "The biggest challenges today include high competition, rapid technology changes, and employers often expecting experience beyond entry level. Many job seekers struggle to demonstrate practical skills or differentiate themselves in crowded applicant pools. To overcome these hurdles, new graduates should build strong portfolios with real projects, internships, or open-source contributions that showcase their abilities. Networking is crucial—attend meetups, engage on LinkedIn, and seek referrals. Tailor applications to each role, emphasizing relevant skills and continuous learning. For job-switchers, leveraging transferable skills and showing commitment through certifications or bootcamps helps bridge gaps. Staying adaptable, focusing on foundational knowledge, and being open to contract or junior roles can open doors. Finally, persistence and a growth mindset are key—every interview and coding challenge is a chance to improve and get closer to your goal.",
+        "evaluation": {
+          "relevance": 4,
+          "clarity": 4,
+          "actionability": 3,
+          "empathy_tone": 4,
+          "depth_expertise": 4,
+          "personalization": 3,
+          "bias_fairness": 4
+        },
+        "evaluation_total": 26
+      }
+    ]
+  }
+]
