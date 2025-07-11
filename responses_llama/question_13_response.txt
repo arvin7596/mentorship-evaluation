@@ -1,0 +1,45 @@
+ For the purpose of this survey, please consider that the mentee seeking mentorship is a junior software engineer who has recently graduated with a Bachelor’s degree in Computer Science.
+
+They have foundational knowledge in machine learning, object-oriented programming (OOP), and algorithms and data structures. Additionally, they are familiar with basic HTML and CSS, and have completed a 6-month internship at a software company where they contributed to small development tasks and participated in code reviews.
+
+The mentee is now seeking guidance on how to grow in their career, improve their skills, and navigate early-career decisions in the software engineering field.
+
+The mentee lives in Germany and is exploring both local and international opportunities while continuing to develop their technical and professional competencies.
+
+How many years of education or practical training are generally needed to secure an entry-level software engineering job?
+
+The number of years of education or practical training needed to secure an entry-level software engineering job can vary depending on several factors, such as the specific company, industry, and location. However, here are some general guidelines:
+
+**Bachelor's Degree:**
+
+* Typically, a bachelor's degree in computer science, software engineering, or a related field is required for most entry-level software engineering positions.
+* The degree program typically takes four years to complete.
+* Some companies may require a master's degree or higher for certain positions.
+
+**Practical Training:**
+
+* Many companies require or prefer candidates with practical experience or training in software development.
+* This can include internships, co-op programs, or coding boot camps.
+* The amount of practical training required can vary from a few months to a few years.
+
+**Certifications:**
+
+* Some companies may require or prefer candidates with certifications in software engineering, such as the Certified Software Development Associate (CSDA) or the Certified Professional in Software Engineering (CPSE).
+* These certifications can be obtained through online courses or professional organizations.
+
+**Online Courses:**
+
+* Online courses and tutorials can provide a good foundation in software engineering, but may not be sufficient for securing an entry-level job.
+* Some companies may require or prefer candidates with online certifications or training in software development.
+
+**Experience:**
+
+* Many companies require or prefer candidates with some experience in software development, such as internships, freelance work, or personal projects.
+* The amount of experience required can vary from a few months to a few years.
+
+**Combination of Education and Practical Training:**
+
+* Some companies may require or prefer candidates with a combination of education and practical training in software engineering.
+* This can include a bachelor's degree in computer science or software engineering, as well as practical experience or training in software development.
+
+In summary, while a bachelor's degree in computer science or software engineering is typically required for most entry-level software engineering positions, practical training and experience can also play a significant role in securing a job.

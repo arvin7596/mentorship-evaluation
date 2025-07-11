@@ -1,0 +1,62 @@
+ For the purpose of this survey, please consider that the mentee seeking mentorship is a junior software engineer who has recently graduated with a Bachelor’s degree in Computer Science.
+
+They have foundational knowledge in machine learning, object-oriented programming (OOP), and algorithms and data structures. Additionally, they are familiar with basic HTML and CSS, and have completed a 6-month internship at a software company where they contributed to small development tasks and participated in code reviews.
+
+The mentee is now seeking guidance on how to grow in their career, improve their skills, and navigate early-career decisions in the software engineering field.
+
+The mentee lives in Germany and is exploring both local and international opportunities while continuing to develop their technical and professional competencies.
+
+What are the biggest challenges in finding a software engineering job today, and how can new graduates or job-switchers overcome them? [end of text]
+
+
+Finding a software engineering job can be challenging, especially for new graduates or job-switchers. Here are some of the biggest challenges and tips on how to overcome them:
+
+**Challenge 1: Competition**
+
+* Many job seekers are competing for a limited number of positions.
+* Solution: Highlight unique skills, experience, and achievements in the resume and online profiles.
+* Tip: Tailor the resume and cover letter to the specific job description and requirements.
+
+**Challenge 2: Limited job openings**
+
+* Many companies are not hiring due to budget constraints, restructuring, or other reasons.
+* Solution: Expand the job search to include startups, smaller companies, and non-traditional industries.
+* Tip: Consider freelance or contract work to gain experience and build a network.
+
+**Challenge 3: Lack of experience**
+
+* Many new graduates or job-switchers lack relevant work experience.
+* Solution: Highlight relevant projects, internships, or volunteer work in the resume and online profiles.
+* Tip: Offer to work on a trial basis or as a freelancer to gain experience and build a portfolio.
+
+**Challenge 4: Changing technology and skills**
+
+* The software engineering field is constantly evolving, and new technologies and skills are emerging.
+* Solution: Stay up-to-date with the latest technologies and skills through online courses, tutorials, and certifications.
+* Tip: Highlight transferable skills, such as problem-solving, communication, and teamwork, which are valuable across different technologies and industries.
+
+**Challenge 5: Networking**
+
+* Many job openings are filled through referrals or word-of-mouth.
+* Solution: Attend industry events, join professional organizations, and connect with professionals in the field on LinkedIn.
+* Tip: Prepare a strong elevator pitch and be ready to talk about your skills, experience, and achievements.
+
+**Challenge 6: Salary and benefits**
+
+* Many job seekers are looking for competitive salaries and benefits.
+* Solution: Research the market salary range and benefits package for the specific job and company.
+* Tip: Be prepared to negotiate salary and benefits during the interview process.
+
+**Challenge 7: Company culture and fit**
+
+* Many job seekers are looking for a company culture and work environment that aligns with their values and goals.
+* Solution: Research the company culture and values before applying or accepting a job offer.
+* Tip: Ask questions during the interview process to get a sense of the company culture and values.
+
+**Challenge 8: Limited job opportunities in specific areas**
+
+* Some areas, such as artificial intelligence or cybersecurity, may have limited job opportunities.
+* Solution: Consider working on projects or contributing to open-source initiatives to gain experience and build a portfolio.
+* Tip: Highlight transferable skills and adaptability to different technologies and industries.
+
+By understanding these challenges and tips, new graduates or job-switchers can increase their chances of finding a software engineering job that aligns with their skills, experience, and goals.

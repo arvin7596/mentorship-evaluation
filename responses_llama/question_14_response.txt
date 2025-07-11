@@ -1,0 +1,56 @@
+ For the purpose of this survey, please consider that the mentee seeking mentorship is a junior software engineer who has recently graduated with a Bachelor’s degree in Computer Science.
+
+They have foundational knowledge in machine learning, object-oriented programming (OOP), and algorithms and data structures. Additionally, they are familiar with basic HTML and CSS, and have completed a 6-month internship at a software company where they contributed to small development tasks and participated in code reviews.
+
+The mentee is now seeking guidance on how to grow in their career, improve their skills, and navigate early-career decisions in the software engineering field.
+
+The mentee lives in Germany and is exploring both local and international opportunities while continuing to develop their technical and professional competencies.
+
+What do employers typically look for in a strong resume or portfolio for a software engineering role?
+
+Employers typically look for a strong resume or portfolio for a software engineering role that showcases a candidate's technical skills, experience, and achievements. Here are some key elements that can make a strong impression:
+
+**Technical Skills:**
+
+* Proficiency in programming languages, frameworks, and tools relevant to the job description.
+* Familiarity with software development methodologies, such as Agile or Waterfall.
+* Experience with cloud platforms, such as AWS or Azure.
+* Knowledge of databases, such as relational databases or NoSQL databases.
+
+**Experience:**
+
+* A strong track record of delivering high-quality software projects on time and within budget.
+* Experience working with cross-functional teams, including product management, design, and QA.
+* Leadership experience, such as leading a team or mentoring junior engineers.
+
+**Achievements:**
+
+* Successful project management, including project planning, execution, and delivery.
+* Contribution to open-source projects or community-driven initiatives.
+* Awards or recognition for outstanding contributions to software engineering.
+
+**Education and Certifications:**
+
+* A bachelor's or master's degree in Computer Science, Software Engineering, or a related field.
+* Professional certifications, such as the Certified Software Development Associate (CSDA) or the Certified Professional in Software Engineering (CPSE).
+
+**Portfolio:**
+
+* A portfolio that showcases a candidate's best work, including code samples, projects, or case studies.
+* A portfolio that demonstrates a candidate's ability to solve complex problems and communicate technical concepts effectively.
+
+**Soft Skills:**
+
+* Strong communication and collaboration skills, including experience working with cross-functional teams.
+* Excellent problem-solving and analytical skills, including the ability to debug and troubleshoot code.
+* Adaptability and willingness to learn new technologies and frameworks.
+
+**Additional Tips:**
+
+* Tailor the resume and portfolio to the specific job description and requirements.
+* Use clear and concise language to describe technical skills and experience.
+* Highlight achievements and accomplishments rather than just listing job responsibilities.
+* Use relevant keywords and phrases from the job description to help the resume pass through applicant tracking systems (ATS).
+* Include a professional online presence, such as a LinkedIn profile, to demonstrate expertise and showcase projects.
+
+Remember, a strong resume and portfolio are just the starting point. It's essential to demonstrate technical skills and experience during the interview process to secure a software engineering role.

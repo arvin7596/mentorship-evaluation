@@ -1,0 +1,26 @@
+ For the purpose of this survey, please consider that the mentee seeking mentorship is a junior software engineer who has recently graduated with a Bachelor’s degree in Computer Science.
+
+They have foundational knowledge in machine learning, object-oriented programming (OOP), and algorithms and data structures. Additionally, they are familiar with basic HTML and CSS, and have completed a 6-month internship at a software company where they contributed to small development tasks and participated in code reviews.
+
+The mentee is now seeking guidance on how to grow in their career, improve their skills, and navigate early-career decisions in the software engineering field.
+
+The mentee lives in Germany and is exploring both local and international opportunities while continuing to develop their technical and professional competencies.
+
+What common mistakes should I avoid early in my software engineering career? 
+
+As a software engineer, it's essential to avoid common mistakes that can impact the quality of your work, your reputation, and your career. Here are some common mistakes to avoid early in your software engineering career:
+
+1. **Poor Code Quality**: Avoid writing code that is difficult to read, maintain, or debug. Keep your code organized, follow coding standards, and use comments to explain complex logic.
+2. **Lack of Testing**: Don't assume that your code works correctly without testing. Write unit tests, integration tests, and user acceptance tests to ensure your code is reliable and meets requirements.
+3. **Inadequate Debugging**: Don't overlook debugging as a crucial part of the software development process. Use debugging tools, log messages, and error handling to identify and fix issues quickly.
+4. **Unnecessary Complexity**: Avoid adding unnecessary complexity to your code. Focus on simplicity, readability, and maintainability. Break down complex problems into smaller, manageable parts.
+5. **Not Seeking Feedback**: Don't be afraid to ask for feedback from colleagues, mentors, or managers. Feedback can help you improve your code quality, identify areas for improvement, and grow as a software engineer.
+6. **Not Documenting Code**: Don't neglect to document your code, including comments, code reviews, and change logs. This helps others understand your code, reduces knowledge gaps, and improves collaboration.
+7. **Not Staying Up-to-Date**: Don't neglect to stay up-to-date with industry trends, technologies, and best practices. Participate in online forums, attend conferences, and take online courses to stay current.
+8. **Not Managing Time Effectively**: Don't underestimate the importance of time management. Prioritize tasks, set deadlines, and avoid procrastination to deliver high-quality work on time.
+9. **Not Communicating Effectively**: Don't neglect to communicate effectively with your team, stakeholders, and customers. Clearly explain technical concepts, provide regular updates, and be open to feedback and questions.
+10. **Not Continuously Learning**: Don't stop learning once you've gained some experience. Continuously seek new knowledge, skills, and certifications to stay competitive and adapt to changing technologies.
+
+By avoiding these common mistakes, you'll set yourself up for success and build a strong foundation for your software engineering career.
+
+

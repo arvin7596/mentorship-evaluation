@@ -1,0 +1,73 @@
+ For the purpose of this survey, please consider that the mentee seeking mentorship is a junior software engineer who has recently graduated with a Bachelor’s degree in Computer Science.
+
+They have foundational knowledge in machine learning, object-oriented programming (OOP), and algorithms and data structures. Additionally, they are familiar with basic HTML and CSS, and have completed a 6-month internship at a software company where they contributed to small development tasks and participated in code reviews.
+
+The mentee is now seeking guidance on how to grow in their career, improve their skills, and navigate early-career decisions in the software engineering field.
+
+The mentee lives in Germany and is exploring both local and international opportunities while continuing to develop their technical and professional competencies.
+
+What are the job prospects and average salary ranges in different software engineering domains (e.g., AI, web, embedded systems)?
+
+Job prospects and average salary ranges in different software engineering domains can vary depending on factors such as location, industry, and company size. However, here are some general trends and salary ranges for different software engineering domains:
+
+**AI and Machine Learning:**
+
+* Job prospects: High demand, with many companies seeking AI and machine learning engineers to build intelligent systems and applications.
+* Average salary range: $125,000 - $200,000 per year, depending on the location and level of experience.
+* Top companies: Google, Amazon, Facebook, Microsoft, IBM, and NVIDIA.
+
+**Web Development:**
+
+* Job prospects: High demand, with many companies seeking web developers to build and maintain online applications and websites.
+* Average salary range: $80,000 - $150,000 per year, depending on the location and level of experience.
+* Top companies: Google, Facebook, Amazon, Microsoft, and IBM.
+
+**Embedded Systems:**
+
+* Job prospects: Moderate demand, with many companies seeking embedded systems engineers to develop and maintain embedded systems, such as automotive, industrial, and medical devices.
+* Average salary range: $80,000 - $140,000 per year, depending on the location and level of experience.
+* Top companies: Intel, Texas Instruments, Analog Devices, and STMicroelectronics.
+
+**Cloud Computing:**
+
+* Job prospects: High demand, with many companies seeking cloud engineers to design and implement cloud-based systems and applications.
+* Average salary range: $120,000 - $200,000 per year, depending on the location and level of experience.
+* Top companies: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud, and Oracle Cloud.
+
+**Cybersecurity:**
+
+* Job prospects: High demand, with many companies seeking cybersecurity engineers to protect their networks, systems, and data from cyber threats.
+* Average salary range: $100,000 - $180,000 per year, depending on the location and level of experience.
+* Top companies: Lockheed Martin, Raytheon Technologies, IBM, and Dell.
+
+**Data Science:**
+
+* Job prospects: High demand, with many companies seeking data scientists to analyze and interpret complex data sets and make informed business decisions.
+* Average salary range: $100,000 - $160,000 per year, depending on the location and level of experience.
+* Top companies: Google, Amazon, Facebook, Microsoft, and IBM.
+
+**Game Development:**
+
+* Job prospects: Moderate demand, with many companies seeking game developers to create engaging and interactive games for various platforms.
+* Average salary range: $60,000 - $120,000 per year, depending on the location and level of experience.
+* Top companies: Electronic Arts (EA), Activision Blizzard, Ubisoft, and Rockstar Games.
+
+**IoT:**
+
+* Job prospects: High demand, with many companies seeking IoT engineers to develop and implement IoT solutions for various industries.
+* Average salary range: $90,000 - $150,000 per year, depending on the location and level of experience.
+* Top companies: Intel, Texas Instruments, ARM Holdings, and Qualcomm.
+
+**Network Security:**
+
+* Job prospects: High demand, with many companies seeking network security engineers to protect their networks and systems from cyber threats.
+* Average salary range: $90,000 - $160,000 per year, depending on the location and level of experience.
+* Top companies: Cisco Systems, Juniper Networks, Palo Alto Networks, and Check Point.
+
+**Robotics:**
+
+* Job prospects: Moderate demand, with many companies seeking robotics engineers to develop and implement robotic systems for various industries.
+* Average salary range: $80,000 - $140,000 per year, depending on the location and level of experience.
+* Top companies: Kuka, ABB, FANUC, and Yaskawa.
+
+Keep in mind that these are general trends and salary ranges, and actual salaries can vary depending on many factors, including location, industry, company size, and level of experience.
